@@ -31,7 +31,7 @@ is a full-fledged economic act and must be paid as
 at least no worse than the production of goods and services.
 
 Keywords: Economics, new political economy, new economic system, finance,
-money, two-dimensional money, 2D money,2D money project.
+money, two-dimensional money, 2D money, 2D money project.
 
 License.
 
