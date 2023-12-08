@@ -31,7 +31,7 @@ is a full-fledged economic act and must be paid as
 at least no worse than the production of goods and services.
 
 Keywords: Economics, new political economy, new economic system, finance,
-money, two-dimensional money, 2D money.
+money, two-dimensional money, 2D money,2D money project.
 
 License.
 
@@ -78,7 +78,7 @@ Copyright (c) Vadim R. Madgazin 2023
 
 Ключевые слова:
 Экономика, новая политическая экономия, новая экономическая система,
-финансы, деньги, двумерные деньги, 2D деньги, 2D money.
+финансы, деньги, двумерные деньги, 2D деньги, 2D money, 2D money project.
 
 Лицензия.
 
