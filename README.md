@@ -5,33 +5,26 @@ Integral economics.
 Beginnings.
 
 V.R. Madgazin - physicist, programmer, game designer, futurologist.
-Author's home page https://vmgames.com/ru/
+Author's home page https://vmgames.com/
 
 Annotation.
 
-This work describes the first part of an improved version
-New Economic System (NES ver. 4.1), based on a money base,
-consisting of two components (two-dimensional money) having a physical
-dimension and reconciling both equality and inequality of people.
+This work proposes a New Economic System (NES version 4.1), which integrates the best aspects of planned and market economies, and adds two more to them - the economy of merit and the sharing economy.
 
-The first component of money retained its first degree dimension
-physical time. The second component of money has increased its dimension
-to the second degree of physical time.
+The main operating unit of the NES is two-dimensional money, consisting of two components, money D1 and D2, which have a physical dimension and are thus not subject to random fluctuations.
 
-For the first time, a universal series of formulas for generating
-flows of the second component of money, covering the entire economic
-the sphere of production and consumption of goods and services.
+The money component D1 is based on the labor theory of value and it conveys the amount of social labor required to create a good. The unit of measurement D1 is physical labor time.
 
-These formulas also received a mathematical justification based on
-laws of mathematical logic, and physical justification based on
-physical laws connecting physical power and work.
+Market relations in the NES use only the money component D2. At the same time, D2 has one mechanism for their consumption and several mechanisms for their arrival, designated as D20, D21, D22...
 
-The consequence of the formulas was the conclusion that human reproduction
-is a full-fledged economic act and must be paid as
-at least no worse than the production of goods and services.
+D20 is the receipt and expenditure of D2 money from the personal funds of individuals and legal entities.
 
-Keywords: Economics, new political economy, new economic system, finance,
-money, two-dimensional money, 2D money, 2D money project.
+All other parts of D2 - D21, D22 and so on - are creatio ex nihilo ("creation from nothing"), they are created by the fact of bringing some benefit from the goods and become the property of individuals and legal entities involved in the production, ownership and consumption of these goods.
+
+The logical meaning of the money component D2 coincides with the useful work in mechanics, and it has the physical dimension of time to the second power.
+
+Keywords:
+economy, planned economy, market economy, merit economy, sharing economy, new political economy, new economic system, finance, banks, money, two-dimensional money, 2D money, 2D money project, "2D money project".
 
 License.
 
@@ -41,8 +34,7 @@ saving a link to the author and his home page.
 Any commercial use of the text in this book requires
 obtaining the personal consent of the author.
 
-Copyright (c) Vadim R. Madgazin 2023
-
+Copyright (c) Vadim R. Madgazin 2023, 2024
 
 Мадгазин Вадим Римович.
 Избранные труды. Том 5.
@@ -55,30 +47,22 @@ Copyright (c) Vadim R. Madgazin 2023
 
 Аннотация.
 
-В этой работе описывается первая часть усовершенствованной версии
-Новой Экономической Системы (НЭС ver. 4.1), основанной на базе денег,
-состоящих из двух компонентов (двумерных денег), имеющих физическую
-размерность и согласующих как равенство, так и неравенство людей.
+В данной работе предлагается Новая Экономическая Система (НЭС версии 4.1), которая интегрирует в себя лучшие стороны плановой и рыночной экономик, и добавляет к ним ещё две - экономику заслуг и экономику совместного потребления (sharing economy).
 
-Первый компонент денег сохранил свою размерность первой степени
-физического времени. Второй компонент денег повысил свою размерность
-до второй степени физического времени.
+Основной операционной единицей НЭС являются двумерные деньги, состоящие из двух компонентов, денег Д1 и Д2, имеющих физическую размерность и таким образом не подверженных случайным колебаниям.
 
-Впервые предложен универсальный ряд формул для генерации
-потоков второго компонента денег, охватывающий всю экономическую
-сферу производства и потребления товаров и услуг.
+Компонент денег Д1 основан на трудовой теории стоимости и он передаёт количество общественного труда, необходимого для создания блага. Единицей измерения Д1 является физическое время труда.
 
-Эти формулы получили и математическое обоснование, на основе
-законов математической логики, и физическое обоснование, на основе
-физических законов, связывающих физическую мощность и работу.
+Рыночные отношения в НЭС используют только компонент денег Д2. При этом у Д2 имеется один механизм их расхода и несколько механизмов их прихода, обозначаемых как Д20, Д21, Д22...
 
-Следствием формул стал вывод о том, что воспроизводство людей
-является полноправным экономическим актом и должно оплачиваться как
-минимум не хуже, чем производство товаров и услуг.
+Д20 это приход и расход денег Д2 из личных средств физических и юридических лиц.
+
+Все остальные части Д2 - Д21, Д22 и так далее - это creatio ex nihilo ("творение из ничего"), они создаются по факту принесения какой-то пользы от благ и поступают в собственность физических и юридических лиц, причастных к производству, владению и потреблению этих благ.
+
+Логический смысл компонента денег Д2 совпадает с полезной работой в механике, и он имеет физическую размерность времени во второй степени.
 
 Ключевые слова:
-Экономика, новая политическая экономия, новая экономическая система,
-финансы, деньги, двумерные деньги, 2D деньги, 2D money, 2D money project.
+экономика, плановая экономика, рыночная экономика, экономика заслуг, sharing economy, новая политическая экономия, новая экономическая система, финансы, банки, деньги, двумерные деньги, 2D деньги, 2D money, 2D money project, "2D money project".
 
 Лицензия.
 
@@ -88,4 +72,4 @@ Copyright (c) Vadim R. Madgazin 2023
 Любое коммерческое использование текста данной книги требует
 получения личного согласия автора.
 
-Copyright (c) Vadim R. Madgazin 2023
+Copyright (c) Vadim R. Madgazin 2023, 2024
