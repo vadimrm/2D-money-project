@@ -1,802 +1,780 @@
-Vadim R. Madgazin, physicist, programmer, futurologist.
-New Economic System based on 2D money.
-Version 4.1.     vm@vmgames.com
+﻿Madgazin Vadim Rimovich , physicist, programmer, futurologist.
+New Economic System based on 2 D money.
+Version 4.1. vm@vmgames.com
 
-This work proposes a New Economic System (NES version 4.1), which integrates the best aspects of planned and market economies and adds to them the economy of merit, the sharing economy and others.
+This work proposes a New Economic System (NES), which includes the best aspects of planned and market economies and adds to them the economy of merit, sharing economy and others.
+The operating unit of the NES is two-dimensional money (2 D money), consisting of two components, D1 and D2, which have a physical dimension and are not subject to fluctuations and drift.
+The money component D1 describes the average amount of social labor required to create goods (goods and services). The unit of measurement D1 is time. D1 money is used for the profit-free purchase and sale of goods, and the credit interest on D1 is always zero.
+The market in the NES is based on the money component D2, and this money is created “out of nothing” upon the delivery of one or another benefit, proportional to the corresponding useful work of the goods, and becomes the property of persons involved in the production, ownership and consumption of these goods.
+The physical meaning of money D2 coincides with useful work in mechanics. The unit of measurement D2 is time to the second power. D2 money is used for the competitive purchase and sale of rights to purchase scarce goods, including public resources for creating and developing a business, and profit and credit interest on D2 are arbitrary.
+
+Keywords:
+planned economy, market economy, merit economy, sharing economy , time-based economics , non-profit economy, Islamic banking, new political economy, new economic system, finance, banks, money, two-dimensional money, 2D money, 2D money, 2D money project , "2D money project ".
+
+Summary.
+
+A market economy system in which entrepreneurs compete with each other and the best of them receive personal ownership of the largest share of the product of social labor, which they use to produce new goods in accordance with the needs of the market - this is a good model, which in practice works poorly because in the process of such competition, to a large extent, mutual suppression of the efforts of different groups of people occurs instead of their consolidation.
+In addition, a large concentration of real resources in one hand is fraught with their useless or even harmful waste due to the greater likelihood of choosing erroneous goals in the absence of their preliminary competent study and public approval.
+A planned economy corrects many of the shortcomings of a market economy, but it also adds its own - excessive bureaucratization, low speed of innovation, and incomplete satisfaction of consumer demand.
+Other, lesser-known types of economies also suffer from their own limitations and cannot fully replace the global systems described above.
+
+In my opinion, the main problem of all economic systems known today is that real economic relations are not “one-dimensional” and cannot be fully controlled using the “handle of one tap” that regulates the flow of “one-dimensional” money.
+If in order to wash normally in the shower we need two regulators - a cold tap and a hot tap, then really it should be easier to manage the economy of a large country or the whole world than with a household shower?
+An additional problem of our “Old Testament” economy is the fact that there is no “hard” equivalent for any currency we use. The basic unit of measurement in economics - money - is too much like a "rubber meter".
+
+Financial and economic innovation suggests itself: in order for the economy to find solid ground under its feet and become much better manageable (at least no worse than a household shower), its dimension must be at least doubled, that is, the introduction of two-component (two-dimensional, 2 D ) money, as well as the linking of each individual component of this new money to a solid physical quantity.
+This is exactly what the New Economic System (NES version 4.1) does, which integrates the best aspects of many well-known (including radically different) “one-dimensional” economic systems, economic principles and economic objects:
+-market economy (for the purpose of making profit),
+- lending at a percentage of profit,
+-planned economy,
+- profit-free economy,
+- time-based economics ( banks time, rose Peters ) ,
+-religious ban on interest rates (Islamic banking),
+- sharing economy ,
+-economics of merit (meritonomics),
+- gender-balanced economy,
+-Silvio Gesell's free money.
+
+And what is characteristic is that NES not only combines incompatible things, but also achieves a synergistic effect!
+All this becomes possible thanks to the introduction of two-component money, D1 and D2, which have a solid physical dimension.
+At the same time, the economy itself turns from one-dimensional to two-dimensional.
+As you know, an infinite number of lines can be placed on a plane, some intersecting or not. It is thanks to this that on the two-dimensional plane of the NES, poorly or completely incompatible economic entities listed above (incompatible when placed on a one-dimensional line) can be placed without conflicts.
+
+The main goal of the NES is not only to save the “old” world economy from total collapse, to which it will inevitably come if it is not replaced by a new one, but also to create conditions for the reproduction and controlled growth of the population of economically developed countries, which is currently steadily declining .
+
+I will allow myself one more cardinal statement: only in the NES will the slogan of the Great French Revolution be fully implemented (in an expanded interpretation to complete gender equality):
+
+"Freedom, Equality, Sisterhood and Brotherhood!"
+
+In NES language this slogan has the following equivalent:
+" Money - 2, Money-1, Sharing Economy + !" .
+
+(" Sharing Economy +" is an expanded version of Sharing Economy - since in the NES, not only any commodity goods, but also money itself, and in addition - many personal goods and even the main part of the population reproduction process can be shared.)
+
+Next I will give a technical description of the NES.
+
 The main operating unit of the NES is two-dimensional money, consisting of two components, money D1 and D2, which have a physical dimension and are thus not subject to random fluctuations.
 The money component D1 is based on the labor theory of value and it conveys the amount of social labor required to create a good. The unit of measurement D1 is physical labor time.
+At D1, a significant tax is introduced into the state budget, which becomes a shared resource, distributed as an interest-free loan in D1 between private entrepreneurs in accordance with their market success.
+The amount of money D1 in a person’s personal property is determined by the amount of time he works and it is naturally limited. Both the credit interest and the profit of producers of goods according to D1 are always equal to zero.
+
 Market relations in the NES use only the money component D2. At the same time, D2 has one mechanism for their consumption and several mechanisms for their arrival, designated as D20, D21, D22...
 D20 is the receipt and expenditure of D2 money from the personal funds of individuals and legal entities.
-All other parts of D2 - D21, D22 and so on - are creatio ex nihilo ("creation from nothing"), they are created by the fact of bringing some benefit from the goods and become the property of individuals and legal entities involved in the production, ownership and consumption of these goods.
-The logical meaning of the money component D2 coincides with the useful work in mechanics, and it has the physical dimension of time to the second power.
+All other parts of D2 - D21, D22 and so on - are c reatio ex nihilo ("creation from nothing"), they are created by the fact of bringing some benefit from the goods and become the property of individuals and legal entities involved in the production, ownership and consumption of these goods.
+If harm is brought instead of benefit, then these parts of D2 become negative.
 
-Keywords: planned economy, market economy, merit economy, sharing economy, time-based economics, non-profit economy, Islamic banking, new political economy, new economic system, finance, banks, money, two-dimensional money, 2D money, 2D money project, "2D money project".
+The physical meaning of D2 coincides with useful work, which in mechanics is equal to the product of useful power and the time the work is performed. The power of any good in the NES is proportional to its cost, which in turn is proportional to the labor time spent on creating this good. Therefore, the money component D2 has the physical dimension of time to the second power.
 
-Мадгазин Вадим Римович, физик, программист, футуролог.
-Новая Экономическая Система на основе 2D денег.
-Версия 4.1.      vm@vmgames.com
+In the NES, a private entrepreneur has the right to arbitrarily dispose of all the income of his legal entity in D2.
+The entire income D2 creates the total amount of money D2, which can be spent by its owner in any way, including invested as a deposit or issued as a loan at any interest.
+But the main function of spending D2 is the purchase of the priority right to purchase any scarce goods, the demand for which exceeds their supply.
 
-Сжатое краткое содержание.
+If goods are goods and services, then they have a fixed price in D1, equal to the cost of their production (including the cost of all additional operations necessary to get the goods to their final recipients), and if these goods are in short supply, then their price in D2 is determined free competition among buyers.
+If benefits are money D1 from the budget allocated for the creation and development of any type of business approved by the state or society, then they are “rented” in the required quantity through a competition, the winners of which are determined by the criterion of the maximum ratio D2/D1, the ratio of money paid D2 to the money required for business D1.
+Thus, the market economy of supply and demand is integrated into component D2, together with the economy of merit - the previously received social benefit from the production and consumption of goods.
 
-В данной работе предлагается Новая Экономическая Система (НЭС версии 4.1), которая интегрирует в себя лучшие стороны плановой и рыночной экономик и добавляет к ним экономику заслуг, экономику совместного потребления (sharing economy) и другие.
+Any operations with D1 and D2 can also be carried out by individuals and banks, with the only limitation: the credit interest on D1 is always zero. This restriction eliminates in the NES all the negative side effects of the market economy, which is entirely “locked” in the safe zone D2.
 
-Основной операционной единицей НЭС являются двумерные деньги, состоящие из двух компонентов, денег Д1 и Д2, имеющих физическую размерность и таким образом не подверженных случайным колебаниям.
-Компонент денег Д1 основан на трудовой теории стоимости и он передаёт количество общественного труда, необходимого для создания блага. Единицей измерения Д1 является физическое время труда.
-Рыночные отношения в НЭС используют только компонент денег Д2. При этом у Д2 имеется один механизм их расхода и несколько механизмов их прихода, обозначаемых как Д20, Д21, Д22...
-Д20 это приход и расход денег Д2 из личных средств физических и юридических лиц.
-Все остальные  части Д2 - Д21, Д22 и так далее - это creatio ex nihilo ("творение из ничего"), они создаются по факту принесения какой-то пользы от благ и поступают в собственность физических и юридических лиц, причастных к производству, владению и потреблению этих благ.
-Логический смысл компонента денег Д2 совпадает с полезной работой в механике, и он имеет физическую размерность времени во второй степени.
+The full cycle of population reproduction, as an animated labor force, is included in the NES economy by analogy with the production of ordinary economic goods. Fundamental algorithms are formulated that integrate any person into the economic space as a producer and consumer of goods.
 
-Краткое содержание. (имеет самостоятельную ценность)
+The equality of people in the NES is ensured by a pricing mechanism based on the labor theory of the value of goods, and it is harmoniously combined with another, market mechanism for the formation of the value of goods, ensuring the mutual difference of people, including on the basis of real data on the use of the useful results of their work.
 
-Система рыночной экономики, в которой предприниматели соревнуются друг с другом и лучшие из них получают в личную собственность наибольшую долю продукта общественного труда, которую они используют для производства новых благ в соответствии с потребностями рынка - это хорошая модель, которая на практике работает  плохо, потому что в процессе такого соревнования в значительной мере происходит взаимное подавление усилий разных групп людей вместо их консолидации.
-Кроме того, большая концентрация реальных ресурсов в одних руках чревата их бесполезной или даже вредной тратой вследствие большей вероятности выбора ошибочных целей при отсутствии их предварительного компетентного изучения и общественного одобрения.
-Плановая экономика исправляет многие недостатки рыночной, но добавляет и свои - чрезмерную бюрократизацию, низкую скорость внедрения инноваций, неполное удовлетворение потребительского спроса.
-Другие, менее известные типы экономик, также страдают от своих ограничений и не могут полностью заменить вышеописанные глобальные системы.
-
-По моему мнению, основная проблема всех известных сегодня экономических систем заключается в том, что реальные экономические отношения не являются "одномерными" и ими невозможно полноценно управлять при помощи "ручки одного крана", регулирующего поток "одномерных" денег.
-Если для того, чтобы нормально помыться в душе нам требуется два регулятора - кран холодной и кран горячей воды, то неужели управлять экономикой большой страны или целого мира должно быть проще, чем бытовым душем?
-Дополнительную проблему нашей "ветхозаветной" экономики составляет факт отсутствия какого-либо "твердого" эквивалента у любой используемой нами валюты. Основная единица измерения в экономики - деньги - слишком сильно напоминают "резиновый метр".
-
-Сама собой напрашивается финансово-экономическая инновация: чтобы экономика обрела твёрдую почву под ногами и стала намного лучше управляемой (по крайней мере не хуже, чем бытовой душ), требуется увеличение её размерности как минимум вдвое, то есть - введение двухкомпонентных (двумерных, 2D) денег, а также - привязка каждого отдельного компонента этих новых денег к твёрдой физической величине.
-
-Именно это и осуществляет Новая Экономическая Система (НЭС версии 4.1), которая интегрирует в себе лучшие стороны множества известных (в том числе кардинально отличающихся) "одномерных" экономических систем, экономических принципов и экономических объектов:
--рыночную экономику (с целью извлечения прибыли),
--кредитование под процент прибыли,
--плановую экономику,
--бесприбыльную экономику,
--time-based economics (банки времени, роза Петерса),
--религиозный запрет на ссудный процент (исламский банкинг),
--sharing economy,
--экономику заслуг (меритономику),
--гендерно-сбалансированную экономику,
--свободные деньги Сильвио Гезелля.
-
-И что характерно - НЭС не только совмещает несовместимое, но и добивается при этом синергетического эффекта!
-Всё это становится возможно благодаря введению двухкомпонентных  денег, Д1 и Д2, имеющих твёрдую физическую размерность.
-При этом и сама экономика превращается из одномерной в двухмерную.
-Как известно на плоскости можно разместить бесконечное количество линий, как пересекающихся, так и нет. Именно благодаря этому на двумерной плоскости НЭС могут без конфликтов размещаться плохо или вовсе несовместимые выше перечисленные экономические сущности (несовместимые при размещении их на одномерной линии).
-
-Основной целью НЭС является не только спасение "старой" мировой экономики от тотального коллапса, к которому она с неизбежностью придёт, если не будет заменена на новую, но и создание условий для воспроизводства и управляемого роста населения экономически развитых стран, которое в настоящее время неуклонно сокращается.
-
-Я позволю себе ещё одно кардинальное высказывание: только в НЭС в полной мере  будет осуществлён лозунг Великой французской революции (в расширенной до полного гендерного равенства трактовке):
-
-"Свобода, Равенство, Сестринство и Братство!".
-
-На языке НЭС этот лозунг имеет такой эквивалент:
-"Деньги-2, Деньги-1, Sharing Economy+!".
-
-("Sharing Economy+" - это расширенная версия Sharing Economy - так как в НЭС шерингу могут подвергаться не только любые товарные блага, но и сами деньги, а кроме этого - многие личные блага и даже основная часть процесса воспроизводства населения.)
-
-Далее я приведу техническое описание НЭС.
-
-Основной операционной единицей НЭС являются двумерные деньги, состоящие из двух компонентов, денег Д1 и Д2, имеющих физическую размерность и таким образом не подверженных случайным колебаниям.
-Компонент денег Д1 основан на трудовой теории стоимости и он передаёт количество общественного труда, необходимого для создания блага. Единицей измерения Д1 является физическое время труда.
-На Д1 вводится значительный по величине налог в государственный бюджет, который становится разделяемым ресурсом, распределяемым как беспроцентный кредит в Д1 между частными предпринимателями в соответствии с их рыночными успехами.
-Количество денег Д1, находящееся в личной собственности человека  определяется по количеству времени его труда и оно ограничено естественным образом. И кредитный процент, и прибыль производителей благ по Д1 всегда равны нулю.
-
-Рыночные отношения в НЭС используют только компонент денег Д2. При этом у Д2 имеется один механизм их расхода и несколько механизмов их прихода, обозначаемых как Д20, Д21, Д22...
-Д20 это приход и расход денег Д2 из личных средств физических и юридических лиц.
-Все остальные  части Д2 - Д21, Д22 и так далее - это creatio ex nihilo ("творение из ничего"), они создаются по факту принесения какой-то пользы от благ и поступают в собственность физических и юридических лиц, причастных к производству, владению и потреблению этих благ.
-Если вместо пользы приносится вред, то эти части Д2 становятся отрицательными.
-
-Физический смысл Д2 совпадает с полезной работой, которая в механике равна произведению полезной мощности на время совершения работы. Мощность любого блага в НЭС пропорциональна его стоимости, которая в свою очередь пропорциональна времени труда, потраченного на создание этого блага. Поэтому компонент денег Д2 имеет физическую размерность времени во второй степени.
-
-В НЭС частный предприниматель имеет право произвольно распоряжаться всеми доходами своего юридического лица в Д2.
-Весь приход Д2 создаёт итоговую величину денег Д2, которая может быть потрачена их владельцем любым способом, в том числе вложена как депозит или выдана как кредит под любой процент.
-Но основная функция расходования Д2 - это покупка приоритетного права на приобретение любых дефицитных блага, спрос на которые превышает их предложение.
-
-Если блага - это товары и услуги, то они имеют фиксированную цену в Д1, равную себестоимости их производства (включая себестоимость всех дополнительных операций, необходимых для попадания благ к их конечным получателям), а если эти блага являются дефицитом, то цена их в Д2 определяется свободной конкуренцией покупателей.
-Если блага - это деньги Д1 из бюджета, выделенные на создание и развитие любого одобренного государством или обществом вида бизнеса, то они "берутся в аренду" в необходимом количестве через конкурс, победителей которого определяют по критерию максимума отношения Д2/Д1, отношения уплаченных денег Д2 к требуемым для бизнеса деньгам Д1.
-Тем самым в компонент Д2 интегрирована рыночная экономика спроса и предложения вместе с экономикой заслуг - полученной ранее общественной пользы от производства и потребления благ.
-
-Любые операции с Д1 и Д2 могут производить также частные лица и банки, с единственным ограничением: кредитный процент по Д1 всегда равен нулю. Данное ограничение устраняет в НЭС весь побочный негативный эффект рыночной экономики, которая целиком "заперта" в безопасной зоне Д2.
-
-Полный цикл воспроизводства населения, как одушевлённой рабочей силы, включён в экономику НЭС по аналогии с производством обычных экономических благ. Сформулированы основополагающие алгоритмы, интегрирующие в экономическое пространство любого человека в качестве производителя и потребителя благ.
-
-Равенство людей в НЭС обеспечивает механизм ценообразования на основе трудовой теории стоимости благ, и он гармонично сочетается с другим, рыночным механизмом формирования стоимости благ, обеспечивающим взаимное отличие людей, в том числе на основе реальных данных об использовании полезных результатов их труда.
-
-В работе предложен универсальный ряд формул для генерации потоков второго компонента денег Д2, охватывающий всю экономическую сферу производства и потребления товаров и услуг, а также весь цикл воспроизводства населения, анализируемый с точки зрения экономики.
-Эти формулы получили математическое обоснование на базе законов математической логики, а также физическое обоснование на базе законов физической механики, связывающих работу и мощность.
-Частным следствием этих формул стал однозначный вывод о том, что воспроизводство населения, а также процессы воспитания и обучения детей и взрослых являются полноправными экономическими актами, которые должны учитываться и оплачиваться в целом аналогично затратам на производство товаров и услуг.
-
-Ключевые слова:
-плановая экономика, рыночная экономика, экономика заслуг, sharing economy, time-based economics, бесприбыльная экономика, исламский банкинг, новая политическая экономия, новая экономическая система, финансы, банки, деньги, двумерные деньги, 2D деньги, 2D money, 2D money project, "2D money project".
-
-Введение.
-
-Данный труд завершает поиски способов спасения мира, предлагая новую экономическую систему отношений, которая в отличии от той, в которой мы все сейчас живём и работаем - основана на нравственных началах, в ней всеобщее равенство и истинная демократия гармонично сочетается с полезной соревновательностью и лидерством.
-
-Перенося в практическое русло все мои более чем 30 летние размышления, описанные в 5-томнике трудов и других текстах, можно надеяться достичь следующих глобальных целей, без использования какого-либо принуждения и насилия:
-1. Мир без войн и организованных конфликтов, "масло вместо пушек".
-2. Экономическое равенство всех людей, включая полное гендерное равенство, а позже - и экономическое равенство всех стран.
-3. Истинная (а не бутафорская) демократия, но с учётом культурных различий народов и стран.
-4. Управляемое воспроизводство коренного населения развитых и других стран, его рост или сокращение (при необходимости).
-5. Избавление от ущерба и вреда, наносимого людям и всей природе в целом, как физического, так и вербального.
-6. Здоровое, трудолюбивое и талантливое потомство, долгая жизнь и продуктивная деятельность на благо общества - для каждого человека.
-
-Способы достижения:
-1. Просвещение всех пассионарных людей и элит о методах достижения симфонии инновативных ("ИНН") и консервативных ("КОН") общественных сил.
-2. Финансовое разоружение, передача "лишних" Д1 в общественную собственность (частично в обмен на Д2). Одновременная демократизация авторитаризма, "горизонтализация" власти.
-3. Построение своих ИНН и КОН подсистем во всех государствах, создание общемирового ИНН банка и ИНН кооперации.
-4. Внедрение НЭС в каждой стране и на международном уровне.
-5. Урбанизация в соответствии с НУС.
-6. Новая 7я и школа, честные СМИ.
+The work proposes a universal series of formulas for generating flows of the second component of money D2, covering the entire economic sphere of production and consumption of goods and services, as well as the entire population reproduction cycle, analyzed from an economic point of view.
+These formulas received a mathematical justification based on the laws of mathematical logic, as well as a physical justification based on the laws of physical mechanics connecting work and power.
+A partial consequence of these formulas was the unambiguous conclusion that population reproduction, as well as the processes of raising and educating children and adults, are full-fledged economic acts that should be taken into account and paid for in general in the same way as the costs of producing goods and services.
 
 
-Информация из других томов (дополненная).
+Introduction.
 
-Недостатки СЭС:
--физическая безразмерность денег вызывает нестабильность цен и, как следствие, всей экономики в целом - она начинает зависеть не от объективных показателей, а от настроения людей;
--основополагающая безнравственность любого бизнеса, так как его главная цель - извлечение прибыли (узаконенный обман и грабёж *), что транслирует безнравственность и во все остальные сферы жизни (поменьше дать, побольше взять любым способом);
--пресловутый кредитный процент, загоняющий и бизнес, и частных лиц в кредитное рабство;
--разрешение неограниченной концентрации капитала в одних руках;
--вечное право собственности, механизм наследования капитала почти без потерь.
+This work completes the search for ways to save the world, proposing a new economic system of relations, which, unlike the one in which we all now live and work, is based on moral principles, in which universal equality and true democracy are harmoniously combined with useful competition and leadership.
 
-Всё это в совокупности порождает как возможность значительных инноваций (общественных изменений по воле одного человека), так и тотальную несменяемую власть небольшой касты очень богатых людей, которые ставят сохранение и приумножение своей власти выше вреда, приносимого всему остальному человечеству и природе в целом.
-Конкретный вред в экономике выражается в монополизме, несовершенной конкуренции, вздутии цен, разорении и/или скупке конкурентов, феномене финансовых пузырей и кризисов, выпуске необеспеченных денег, грабеже более слабых стран, бесполезной трате ценных ресурсов, искусственном создании спроса на ненужные и вредные товары и услуги...
-Подобное пренебрежение интересами общества уже довольно скоро приведёт к вырождение человечества как вида, в том числе из-за потери экономического смысла оставлять потомство, ведь это убыточно в СЭС, где трудовые ресурсы бесплатно отчуждаются капиталом (воруются на "законном" основании) от их производителей, как частных (матерей и отцов), так и общественных (эмиграция "лучших" из своих материнских государств).
-* Прибыль возникает в результате победы "сильных" над "слабыми",  и победители отбирают себе "львиную долю добычи", в том числе и то, что произвели "слабые". Вот так и поощряются безнравственные способы достижения "победы" - обман, принуждение словом или силой, грабёж, убийство... В результате в любом экономическом акте в СЭС присутствует немалая доля безнравственности. Даже в благотворительности - "почти всё украл, а потом немного вернул обратно".
+By transferring into practice all my more than 30 years of reflection, described in the 5-volume work and other texts, one can hope to achieve the following global goals , without the use of any coercion and violence:
+1. A world without wars and organized conflicts, “butter instead of guns.”
+2. Economic equality of all people, including full gender equality, and later - economic equality of all countries.
+3. True (not fake) democracy, but taking into account the cultural differences of peoples and countries.
+4. Controlled reproduction of the indigenous population of developed and other countries, its growth or reduction (if necessary).
+5. Getting rid of damage and harm caused to people and nature as a whole, both physical and verbal.
+6. Healthy, hardworking and talented offspring, long life and productive activity for the benefit of society - for every person.
 
-Формула власти - закон необходимого разнообразия Эшби - для управления обществом (кибернетический).
-V(u) >= V(x) * Kx / (1 - Ku);  это формула (Ф.2.1.4.) из тома 1.
-Следствия закона Эшби на простом языке - языке экономики.
-E >= Kx / (Kx + 1 - Ku); аналогично (Ф.2.1.5.)
-При высокой точности управления с Ku = 0.5 (когда из 4-х актов управления только 1 ошибочный) получим совсем простое соотношение
+Ways to achieve :
+1. Educating all passionate people and elites about the methods of achieving a symphony of innovative (“INN”) and conservative (“CON”) social forces.
+2. Financial disarmament, transfer of “extra” D1 into public ownership (partially in exchange for D2). Simultaneous democratization of authoritarianism, “horizontalization” of power.
+3. Building your own TIN and KON subsystems in all countries, creating a global bank TIN and cooperation TIN.
+4. Implementation of NES in each country and at the international level.
+5. Urbanization in accordance with NUS.
+6. New 7th and school, honest media.
+
+
+Information from other volumes (with additions).
+
+Disadvantages of SES :
+-the physical dimensionality of money causes instability of prices and, as a consequence, of the entire economy as a whole - it begins to depend not on objective indicators, but on the mood of people;
+- the fundamental immorality of any business, since its main goal is to make a profit (legalized deception and robbery *), which translates immorality into all other areas of life (to give less, to take more in any way);
+- the notorious credit interest, driving both businesses and individuals into credit slavery;
+-allowing unlimited concentration of capital in one hand;
+-eternal right of ownership, a mechanism for inheriting capital with almost no losses.
+
+All this together gives rise to both the possibility of significant innovation (social changes at the will of one person) and the total irreplaceable power of a small caste of very rich people who put the preservation and increase of their power above the harm caused to the rest of humanity and nature as a whole.
+Specific harm in the economy is expressed in monopolism, imperfect competition, price gouging, ruin and/or buying up of competitors, the phenomenon of financial bubbles and crises, the issuance of fiat money, robbery of weaker countries, waste of valuable resources, artificial creation of demand for unnecessary and harmful goods and services...
+Such disregard for the interests of society will quite soon lead to the degeneration of humanity as a species, including due to the loss of the economic sense of leaving offspring, because this is unprofitable in the SES, where labor resources are freely alienated by capital (stolen on a “legal” basis) from their producers, both private (mothers and fathers) and public (emigration of the “best” from their mother states).
+* Profit arises as a result of the victory of the “strong” over the “weak,” and the winners take for themselves “the lion’s share of the spoils,” including what the “weak” produced. This is how immoral ways of achieving “victory” are encouraged - deception, coercion by word or force, robbery, murder... As a result, in any economic act in the SES there is a considerable amount of immorality. Even in charity - “he stole almost everything, and then gave a little back.”
+
+Formula of power - Ashby's law of necessary diversity - for managing society (cybernetic).
+V(u) >= V(x) * Kx / (1 - Ku); This is formula (F.2.1.4.) from Volume 1.
+The consequences of Ashby's law in simple language - the language of economics.
+E >= Kx / (Kx + 1 - Ku); similarly (F.2.1.5.)
+With high control accuracy with Ku = 0.5 (when out of 4 control acts only 1 is erroneous), we obtain a very simple relation
 E >= Kx/(Kx+0.5),
-которое при разных запасах прочности системы Kx даст следующие значения минимальной доли свободного капитала Е в руках властвующей элиты, необходимой для обеспечения этой прочности (таблица Т.2.1.5.1.):
+which, with different safety margins of the system Kx, will give the following values of the minimum share of free capital E in the hands of the ruling elite necessary to ensure this strength (Table T.2.1.5.1.):
 
 Kx___10%___25%___50%__100%__150%__200%__300%__450%
-E_____17%___33%___50%___66%___75%____80%___86%____90%
-
-Пример: если в руках правительства страны сосредоточено не менее 66% всех экономических ресурсов общества, то их будет достаточно для компенсации максимальной (100%) его нестабильности, когда все ресурсы народа будут направлены против государства. (Кх > 100% возможно при учёте влияния внешних для данного государства сил.)
-
-Дихотомия ИНН и КОН обществ, аналогия с биологической ролью полов (м/ж), различие в приоритетах прав человека и прав общества.
-Неустранимый конфликт если в каждом государстве доминирует один тип общества. Единственный выход - поместить оба типа внутрь каждой страны. Россия как наилучший кандидат.
-
-
-Основная часть. Евангелие Политэкономии.
-
-Ниже следует непосредственный конспект [Л.5], изложение НЭС версии 4.1. Некоторые пассажи в кратком виде отсутствуют в томе 5, но могут быть разбросаны по всему тексту и/или могут там подразумеваться.
-
-Решить проблемы может НЭС, базирующаяся на принципиальных изменениях в главном её инструменте - в устройстве и функционале денег.
-Кроме этого в НЭС вклюены три нравственных начала:
--"капитал" (в терминологии СЭС) не должен приносить "прибыль";
--все виды труда, приносящего пользу людям, имеют одинаковую базовую ценность (по Д1);
--общественные ресурсы для бизнеса должны выделяться тем людям, которые принесли наибольшую пользу этому обществу.
-
-Глава 1. Деньги НЭС - двумерные деньги.
-
-Примерно две тысячи лет назад возникла и была принята одна из главных религиозных инноваций в том, что Авраамический Единый Бог "приобрёл" три свои Ипостаси - возникла монотеистическая Троица.
-А примерно 4 года назад возникла одна финансово-технологическая инновация, описанная мной в Новом Завете Политической Экономии (том 1) - это создание у одной старой сущности - у обычных денег - двух ипостасей: "материальной" (Деньги-1) и "нематериальной" (Деньги-2).
-Д1 отражают равенство, а Д2 отражают различие людей.
-Доход в Д1 пропорционален объёму собственного труда человека.
-Доход в Д2 пропорционален пользе, приносимой им другим людям.
-Одинаковый по объёму труд может приносить разную пользу.
-Иногда Труд бывает бесПолезным: Д1 > 0 , Д2 = 0.
-Иногда Труд бывает Вредным: Д1 > 0 , Д2 < 0.
-Иногда Польза бывает дармовой, без Труда: Д1 = 0, Д2 > 0.
-
-Раздел 1.1. Функционал Денег 1.
-
-Единица измерения Д1 - это среднее время труда в средних условиях производства, необходимое для выполнения работы определённого типа, измеренное среди всех специалистов по данному типу труда на всей территории одного государства (в разных странах производительность труда будет разной).
-Д1 = Кп * Кс * ВР;   это формула [Р.1.1]-(Ф.1)
-где
-ВР это физическое время работы человека.
-Кп это коэффициент производительности труда человека в идеальных условиях по сравнению со средней производительностью других людей.
-Кс - это коэффициент сложности, зависящий от условий труда.
-Обычно (0.3 <= Кп <=3.0) и (1.0 <= Кс <= 3.0).
-
-Раздел 1.2. Торговля за Деньги 1.
-
-В НЭС полностью отсутствует прибыль в Д1, и продажная цена любого блага равна его себестоимести для производителя, то есть трудозатратам.
-Любой труд на рынке обменивается на точно такое же количество другого труда. Любой труд измеряется в среднем количестве времени труда, см. формулу [Р.1.1]-(Ф.1).
-Запрещение иметь прибыль запрещает и все другие источники нетрудового дохода по Д1, включая и "проценты по кредиту".
-Также в НЭС полностью отсутствует право наследования (крупной) собственности и денег физическими лицами.
-Блага наследства стоимостью выше определённого порога (несколько месяцев труда) передаются в общественную собственность или в собственость указанных в завещании юридических лиц, но может быть также арендованы наследником, в том числе с особым приоритетом.
-Любая собственность в НЭС - это результат собственного же труда!
-Это же правило относится и к деньгам, но тут возможно дотирование.
-Поэтому земля, недра и все природные ресурсы находядся в общественной собственности.
-Вместо частной собственности на дорогие блага (которые невозможно купить из-за их дороговизны) используется право приоритетной аренды, поэтому вся экономика в НЭС - это Sharing Economy!
-
-Раздел 1.3. Для чего нужны Деньги 2.
-
-Дефицит - это любое благо, которого не хватает на всех людей, желающих его приобрести.
-Чтобы предоставлять людям справедливый доступ к "Дефициту" нам нужен какой-то механизм ранжирования всех претендентов по степени их предпочтения в качестве потребителей этого дефицита.
-В НЭС таким механизмом являются Деньги-2.
-В СЭС дефицит распределяется или плановым методом (очередью по времени), либо рыночным (завышением цены).
-
-Примерная формула рыночной цены блага в СЭС:
-РЦБ = К * СПБ * ДБ;   [Р.1.3]-(Ф.1)
-где
-РЦБ это рыночная цена блага,
-К обычно =1, но для благ первой необходимости может быть >>1, это так называемое лихоимство, когда люди отдают всё чтобы выжить,
-СПБ это стоимость производства блага,
-ДБ это дефицитность блага.
-
-ДБ = ТБ / ИБ;   [Р.1.3]-(Ф.2)
-где
-ТБ это требуемый суммарный объём блага для всех его желающих,
-ИБ это имеющийся объём блага на рынке.
-
-Обычные блага, не являющиеся дефицитными, продаются в НЭС только за Д1, без уплаты Д2 - это строгое правило НЭС.
-А дефицитные блага продаются за Д1 и Д2 одновременно, причём их цена в Д2 определяется таким же способом, как и обычная цена в СЭС.
-Перепишем формулы (Ф.1) и (Ф.2) через деньги НЭС при К =1:
-
-РЦБ = Д1 * Д2;   [Р.1.3]-(Ф.3)           Д2 = ТБ / ИБ;   [Р.1.3]-(Ф.4)
-
-Если представить себе плоскость с двумя осями Х (в Д1) и У (в Д2), то можно понять, что СЭС - это двумерное пространство НЭС, превращённое в одномерное при помощи умножения координат (Х,У) каждой точки плоскости.
-В СЭС рыночная цена блага с большой себестоимостью и низкой дефицитностью (скажем вертолёт) совпадает с ценой блага с низкой себестоимостью и высокой дефицитностью (алмазные камешки или картина "раскрученного" художника).
-В НЭС же это будут две очень далёкие друг от друга точки (Х1,У1) и (Х2,У2) плоскости, где Х1 >> Х2 и У1 << У2, гораздо больше говорящие о природе этих весьма разных благ, чем их одинаковая цена в СЭС
-Деньги-2 нужны для экономного и честного распределения дефицита.
-
-Раздел 1.4. Главные свойства Денег 2.
-
-Чтобы сочетать рыночные законы спроса и предложения с принципом справедливости, мы должны наделять людей тем большим количеством Д2, чем больше пользы они приносят другим людим своим трудом.
-Польза - это время полезной работы блага, и она также будет пропорционально цене самого блага (в физике польза - это просто работа, а (работа = мощность * время), и мощность пропорциональна цене блага).
-Т.о. основополагающая формула для конструирования Д2:
-
-Д2 ~ К * Т * СПБ = К * Т * Д1;   [Р.1.4]-(Ф.1)
-где
-~ это знак пропорциональности,
-К это некий числовой коэффициент в диапазоне от 0 до 1,
-Т это время работы (эксплуатации) блага,
-СПБ = Д1 это стоимость производства блага.
-Т.к. Д1 измеряется временем, то Д2 измеряется квадратом времени.
-
-Величина Д2 сильно напоминает банковский процент по кредиту!
-Если вы берёте в банке сумму денег Д1, то ваш первоначальный долг банку через время Т (измеряемое в годах) вырастает на сумму:
-Д2 = ПС * Т * Д1;   [Р.1.4]-(Ф.2)
-где ПС это годовая процентная ставка по кредиту.
-Почему Д2 так сильно напоминает прибыль банка?
-Потому что польза от инвестиций в НЭС имеет те же механизмы, что и прибыль от инвестиций в СЭС.
-
-В НЭС Д2 нельзя напрямую смешивать с Д1, но в СЭС именно это всегда и делается - банку и затем на рынок возвращается сумма (Д1+Д2).
-Д2 от использования блага начисляются тому (первому) лицу, которое произвело это благо. (А второе лицо, которое непосредственно использует благо - тоже может в свою очередь приносить пользу третьему лицу и при этом зарабатывать себе и Д1, и Д2.)
-Д2 за использование блага возникают сами собой, "из ниоткуда".
-За Д2 можно купить только право на приобретение дефицитного блага, а само это благо можно купить только за Д1.
+E____17%___33%___50%___66%___75%___80%___86%___90%
+
+Example: if at least 66% of all economic resources of society are concentrated in the hands of the country’s government, then they will be enough to compensate for the maximum (100%) of its instability, when all the resources of the people will be directed against the state. (Kx > 100% is possible when taking into account the influence of forces external to a given state.)
+
+The dichotomy of INN and CON societies , the analogy with the biological role of the sexes (m/f), the difference in the priorities of human rights and the rights of society.
+An irremovable conflict if one type of society dominates in each state. The only solution is to put both types inside each country. Russia as the best candidate.
+
+
+Main part. The Gospel of Political Economy.
+
+Below is a direct synopsis [L.5] , a presentation of NES version 4.1. Some passages are not summarized in Volume 5 but may be scattered throughout the text and/or may be implied there.
+
+The problem can be solved by the NES , which is based on fundamental changes in its main instrument - the structure and functionality of money.
+In addition, the NES includes three moral principles :
+- “capital” (in SES terminology) should not bring “profit”;
+- all types of labor that benefit people have the same basic value (according to D1);
+-public resources for business should be allocated to those people who have brought the greatest benefit to this society.
+
+Chapter 1. NES money is two-dimensional money.
+
+About two thousand years ago, one of the main religious innovations arose and was accepted in that the Abrahamic One God “acquired” his three Hypostases - the monotheistic Trinity arose.
+And about 4 years ago, one financial and technological innovation arose, which I described in the New Testament of Political Economy (volume 1) - this is the creation of one old entity - ordinary money - of two forms: “material” (Money-1) and “immaterial” (Money-2).
+D1 reflect equality, and D2 reflect the difference of people.
+Income in D1 is proportional to the volume of a person’s own labor.
+Income in D2 is proportional to the benefit it brings to other people.
+The same amount of work can bring different benefits.
+Sometimes Labor is useless: D1 > 0, D2 = 0.
+Sometimes Labor can be Harmful: D1 > 0, D2 < 0.
+Sometimes Benefit is free, without Labor: D1 = 0, D2 > 0.
+
+Section 1.1. Functionality of Money 1.
+
+Unit of measurement D1 is the average labor time under average production conditions required to perform a certain type of work, measured among all specialists in this type of work throughout the entire territory of one state (labor productivity will be different in different countries).
+D1 = Kp * Ks * BP; this is the formula [R.1.1]-(F.1)
+Where
+VR is the physical time a person works.
+Kp is the ratio of a person's labor productivity under ideal conditions compared to the average productivity of other people.
+Kc is a complexity coefficient that depends on working conditions.
+Typically (0.3 <= Kp <=3.0) and (1.0 <= Ks <= 3.0).
+
+Section 1.2. Trading for Money 1.
+
+In the NES, there is completely no profit in D1, and the selling price of any good is equal to its cost for the manufacturer, that is, labor costs.
+Any labor on the market is exchanged for exactly the same amount of other labor. Any work is measured in the average amount of labor time, see formula [R.1.1]-(F.1).
+The prohibition to have a profit also prohibits all other sources of unearned income under D1, including “loan interest.”
+Also, the NES completely eliminates the right of inheritance of (large) property and money by individuals.
+The benefits of an inheritance with a value above a certain threshold (several months of labor) are transferred to public ownership or to the ownership of legal entities specified in the will, but can also be rented by the heir, including with special priority.
+Any property in the NES is the result of your own labor!
+The same rule applies to money, but subsidies are possible here.
+Therefore, the land, subsoil and all natural resources are in public ownership.
+Instead of private ownership of expensive goods (which cannot be purchased due to their high cost), the right of priority lease is used, so the entire economy in the NES is a Sharing Economy!
+
+Section 1.3. What is Money for? 2.
+
+Scarcity is any good that is not enough for all the people who want to purchase it.
+To provide people with fair access to "Scarcity" we need some mechanism to rank all applicants according to their preference as consumers of that scarcity.
+In the NES, such a mechanism is Money-2.
+In SES, the deficit is distributed either by a planned method (queuing by time) or by a market method (inflating prices).
+
+An approximate formula for the market price of a good in SES:
+RCB = K * SPB * DB; [R.1.3]-(F.1)
+Where
+RCB is the market price of a good,
+K usually = 1, but for essential goods it can be >>1 , this is the so-called extortion, when people give everything to survive,
+SPB is the cost of production of a good,
+DB is the scarcity of a good.
+
+DB = TB/IB; [R.1.3]-(F.2)
+Where
+TB is the required total amount of good for all those who want it,
+Information security is the available volume of a good on the market.
+
+Ordinary goods that are not scarce are sold in the NES only for D1, without paying D2 - this is a strict rule of the NES.
+And scarce goods are sold for D1 and D2 simultaneously, and their price in D2 is determined in the same way as the regular price in the SES.
+Let's rewrite formulas (F.1) and (F.2) in terms of NES money at K = 1:
+
+RCB = D1 * D2; [R.1.3]-(F.3) D2 = TB / IB; [R.1.3]-(F.4)
+
+If you imagine a plane with two axes X (in D1) and Y (in D2), then you can understand that the SES is a two-dimensional space of the NES, transformed into a one-dimensional one by multiplying the coordinates (X, Y) of each point of the plane.
+In SES, the market price of a good with a high cost and low scarcity (say, a helicopter) coincides with the price of a good with a low cost and high scarcity (diamond pebbles or a painting by a “promoted” artist).
+In the NES, these will be two points (X1, Y1) and (X2, Y2) very far from each other on the plane, where X1 >> X2 and Y1 << Y2, which speak much more about the nature of these very different goods than their identical price in SES
+Money-2 is needed for the economical and fair distribution of the deficit.
+
+Section 1.4. The main properties of Money 2.
+
+To combine the market laws of supply and demand with the principle of fairness, we must provide people with more D2, the more benefits they bring to other people through their work.
+Benefit is the time of useful work of the good, and it will also be proportional to the price of the good itself (in physics, benefit is simply work, and (work = power * time), and power is proportional to the price of the good).
+That. fundamental formula for designing D2:
+
+D2 ~ K * T * SPB = K * T * D1; [R.1.4]-(F.1)
+Where
+~ is a sign of proportionality,
+K is a certain numerical coefficient in the range from 0 to 1,
+T is the time of work (exploitation) of the good,
+SPB = D1 is the cost of production of the good.
+Because D1 is measured by time, then D2 is measured by the square of time.
+
+The value of D2 is very similar to the bank interest rate on a loan!
+If you borrow a sum of money D1 from a bank, then your initial debt to the bank after time T (measured in years) grows by the amount:
+D2 = PS * T * D1; [R.1.4]-(F.2)
+where PV is the annual interest rate on the loan.
+Why does D2 look so much like bank profit?
+Because the benefits from investments in NPS have the same mechanisms as the profit from investments in SPS.
+
+In the NES, D2 cannot be directly mixed with D1, but in the SES this is exactly what is always done - to the bank and then the amount (D1 + D2) is returned to the market.
+D2 from the use of a good is accrued to the (first) person who produced this good. (And the second person, who directly uses the benefit, can also, in turn, benefit a third party and at the same time earn himself both D1 and D2.)
+D2 for the use of goods arise by themselves, “out of nowhere.”
+For D2 you can only buy the right to purchase a scarce good, and this good itself can only be bought for D1.
 
-Глава 2. Деньги 2 при производстве и потреблении благ.
+Chapter 2. Money 2 in the production and consumption of goods.
 
-Забегая вперёд с обозначениями компонентов Д2: 
-При эксплуатации блага (его собственником или третьими лицами) возникают потоки Д22, Д23 (и другие потоки Д2) которые целиком идут в пользу производителя блага.
-В НЭС собственник блага должен быть лично заинтересован в его использовании, поэтому все потоки Д2 в пользу производителя блага (кроме Д20 и Д21) при любой эксплуатации блага копируются также в пользу собственника блага, независимо от того, кто конкретно использует благо - сам собственник, или третьи лица.
-В НЭС есть также копирование потоков Д23 в пользу потребителя блага, если потребитель принимает непосредственное участие в процессе потребления (использования) блага.
-Копирование Д23 в пользу потребителя блага полностью независимо от вышеприведённого копирования в пользу собственника блага.
+Looking ahead with the designations of D2 components:
+When a good is exploited (by its owner or third parties), flows D22, D23 (and other flows D2) arise, which go entirely to the benefit of the producer of the good.
+In the NES, the owner of a good must be personally interested in its use, therefore, all flows D2 in favor of the producer of the good (except for D20 and D21) during any exploitation of the good are also copied in favor of the owner of the good, regardless of who specifically uses the good - the owner himself, or third parties.
+In the NES there is also copying of D23 flows in favor of the consumer of the good, if the consumer is directly involved in the process of consumption (use) of the good.
+Copying D23 in favor of the consumer of the good is completely independent of the above copying in favor of the owner of the good.
 
-Раздел 2.1. Деньги 2 от товаров длительного срока службы.
+Section 2.1. Money 2 from durable goods.
 
-Будем считать, что приобретатель и эксплуататор ТДСС - это одно и то же лицо. А весь процесс производства товара будет "спрятан" в акте его приобретения. Т.о. мы будем иметь всего два основных этапа порождения Д2: приобретение товара и эксплуатация товара.
-Я пишу "приобретение", а не "покупка" с учётом того, что могут быть товары, за которые приобретатель не платит их стоимость в Д1.
-Это не значит, что при производстве таких товаров не было никаких трудозатрат. Просто способ компенсации этих трудозатрат не будет состоять из требования обязательной уплаты Д1 при их приобретении.
-Обозначим в виде Д1х (х - это число) разные категории Д1:
-Д10 это "условная цена" бесплатных товаров.
-Д11 это цена платных товаров.
-Д12 это "Д10 или Д11", то есть "обобщённая" цена товара.
-Аналогично будем использовать Д2у (у - это число): Д20, Д21, Д22, ...
+We will assume that the acquirer and exploiter of the TDSS are one and the same person. And the entire process of producing a product will be “hidden” in the act of acquiring it. That. we will have only two main stages of generating D2: the acquisition of goods and the operation of goods.
+I write “acquisition” and not “purchase” taking into account the fact that there may be goods for which the acquirer does not pay their cost in D1.
+This does not mean that no labor was involved in the production of such goods. It’s just that the way to compensate for these labor costs will not consist of requiring mandatory payment of D1 upon their acquisition.
+Let us denote in the form D1x (x is a number) the different categories D1:
+D10 is the “conditional price” of free goods.
+D11 is the price of paid goods.
+D12 is “D10 or D11”, that is, the “generalized” price of the product.
+We will use D2y similarly (y is a number): D20, D21, D22, ...
 
-ЕД2 - это суммарная величина Д2, получаемых производителем блага за полный цикл его жизни - его приобретение и его использование.
-ЕД2 = Д20 + Д21 + Д22 + Д23 (+Д25);   [Р.2.1]-(Ф.1)
+ED2 is the total value of D2 received by the producer of the good for the full cycle of its life - its acquisition and its use.
+ED2 = D20 + D21 + D22 + D23 (+D25); [R.2.1]-(F.1)
 
-Д20. Плата за дефицитность блага. (ТДСС)
-Д20 = 0 если благо не является дефицитным.
-В противном случае Д20 определяется "рыночным" способом - конкуренцией всех желающих приобрести данное благо (аукцион), и эти Д20 платятся из личных средств приобретателя блага его производителю.
-
-Д21. Награда (или штраф) за производство блага. (ТДСС)
-Награда - это не плата!
-Награда/штраф Д21, Д22, Д23 и Д25 (для штрафа это отрицательные числа) порождается приобретателем блага "из ниоткуда" (в отличии от Д20), и поступает в собственность производителя блага.
-Д21 появляются сразу по факту приобретения блага.
-
-Д21 = КБ * ККППроизв * Д12;   [Р.2.1]-(Ф.2)
-где
-КБ это Качество Блага, -1 ... +1;
-ККППроизв это ККПП производителя блага;
-Д12 это обобщённая цена блага.
-
-Д22. Награда (или штраф) за работу блага. (ТДСС)
-
-Д22 = КРБ * КИБ * ВРБ * Д12;   [Р.2.1]-(Ф.3)
- где
-КРБ это Качество Работы Блага, -1 ... +1;
-КИБ это Коэффициент Использования Блага, 0...1;
-ВРБ это Время Работы Блага;
-Д12 это обобщённая цена блага.
-
-Д23. Награда (штраф) за участие человека (потребителя). (ТДСС)
-
-Д23 = КУЧ * ККППотр * ВУЧ;   [Р.2.1]-(Ф.6)
-где
-КУЧ это Качество Участия Человека в работе блага, -1 ... +1;
-ККППотр это ККПП потребителя блага;
-ВУЧ это Время Участия Человека в работе блага.
-
-Д24. (ТДСС) Всегда Д24 = 0.
-
-Д25. Награда (штраф) за потребление последействия блага. (ТДСС)
-Описание см. в Р.2.4.
-
-Суммарные затраты всех ресурсов (времени и Д1), необходимые человеку для приобретения физических и умственных способностей к производству любого конкретного блага, могут быть выражены в эквивалентной величине вложенных Д1, которую я назвал термином "Капитализация Компетенций Производителя-Потребителя", ККПП.
-ККПП имеет размерность времени, и более подробно её конструкция будет изложена позже.
-
-Раздел 2.2. Как вычисляются цены Д10, Д11 и Д12. (не важен)
-
-Раздел 2.3. Деньги 2 от товаров короткого срока службы.
-
-Главное родовое отличие ТКСС от ТДСС - это то, что весь ТКСС (как правило) расходуется в процессе его однократного использования, поэтому для них должен использоваться совсем другой вид формулы  Д22.
-Чтобы определить её правильный вид мне пришлось обратится к анализу всех формул для генерации Д2 от ТДСС на языке физики.
-Мы декларируем, что количество генерируемых Д2 должно быть пропорционально (экономической) пользе от блага. Что обычно подразумевается под экономической пользой? Польза в экономике - это количество полезной работы. Полезная работа в физике определяется по формуле: Работа = (Мощность) * (Время работы);
-Сопоставим эту физическую формулу с экономическими формулами для Д2 от ТДСС и перепишем их на языке физики:
-если вспомнить, что Д12 является тем же самым что и  Тпроизв, то
-Д21 ~= ККППроизв * Тпроизв = (Мощность производителя) * Тпроизв;
-Д22 ~= Д12 * Тпотр ~= (Мощность работы ТДСС) * Тпотр;
-Д23 ~= ККППотр * Тпотр = (Мощность потребителя) * Тпотр;
-
-Здесь требуется подтверждение того, что (Мощность работы ТДСС) пропорциональна Д12, но это именно так и логически (два мотора одной мощности стоят в 2 раза больше одного), и эмпирически:
-ограниченная проверка показала, что для тех ТДСС, качество работы которых в наибольшей степени зависит от развиваемой ими мощности, отношение их цены к мощности это почти константа в 10 рублей за 1 Ватт. Я брал светодиодные лампы, бензиновые электрогенераторы и некоторые автомобили, без дорогих дополнительных удобств, не связанных с их основной целью - движением.
-Чтобы понять, что смысл ККПП совпадает со смыслом мощности, достаточно рассмотреть связь физического труда и ФККПП человека. 
-Вывод: ТКСС может совершить только однократную полезную работу, объём которой (Д22) должен быть пропорционален объёму полезной работы, необходимой для производства этого ТКСС (Д21).
-Формулы для Д2 от ТКСС:
-Д20. Плата за дефицитность блага. (ТКСС) (без изменений)
-
-Д21. Награда (или штраф) за производство блага. (ТКСС)
-
-Д21 = КБ * ККППроизв * Д12;   [Р.2.3]-(Ф.2)
-
-КБ у ТКСС может принимать полный диапазон значений от -1 до +1, потому что эти товары почти невозможно "проверить перед покупкой", их качество можно узнать только начав потреблять, поэтому для них КБ практически совпадает с КРБ.
-
-Д22. Награда (или штраф) за работу блага. (ТКСС) (другая!)
-
-Д22 = КИБ * КРБ * ККППроизв * Д12;   [Р.2.3]-(Ф.3)
-где
-КИБ это Коэффициент Использования Блага;
-КРБ это Качество Работы Блага;
-
-Д23. Награда (штраф) за участие человека (потребителя). (ТКСС)
-
-Д23 = КУЧ * ККППотр * ВУЧ;   [Р.2.3]-(Ф.4)
-
-Д24. (ТКСС) Всегда Д24 = 0.
-
-Д25. Награда (штраф) за потребление последействия блага. (ТКСС)
-Описание см. в Р.2.4.
-
-Раздел 2.4. Деньги 2 от всех видов необразовательных услуг.
-
-Рассмотрим производство и потребление благ в виде услуг, которые напрямую не связаны с изменением ККПП их потребителя.
-В отличии от производства товаров, процесс оказания услуг их производителем (процесс производства услуг) полностью совмещён с процессом получения услуг их потребителем, а вот личное участие самого потребителя услуг в процессе их получения бывает вариабельно.
-Например, для стрижки или массажа необходимо пассивное участие потребителя. А для прохождения каких-либо тестов необходимо активное участие потребителя. Но если в вашей квартире кто-то делает уборку или устанавливает сантехнику, то вы как потребитель лично не обязаны участвовать в "потреблении" этих процессов (хотя и можете).
-Однако процесс потребления услуг сильно отличается только от процесса потребления ТДСС, но он очень похож на процесс потребления ТКСС: их отличие только в том, что процесс производства и потребления ТКСС это два разных акта, разделённых произвольным промежутком времени, а при оказании услуг этот промежуток времени просто исчезает и два акта сливаются в один.
-Но для формул генерации Д2 это исчезновение не имеет практически никакого значения и мы с чистой совестью можем использовать для услуг все формулы от ТКСС.
-Небольшая корректировка нужна только для Д22: в отличии от ТКСС, где КИБ <= 1, потому что товар при потреблении может быть израсходован не полностью, для любой услуги всегда КИБ = 1 и его можно опустить.
+D20. Payment for scarcity of a good. (TDSS)
+D20 = 0 if the good is not scarce.
+Otherwise, D20 is determined by the “market” method - the competition of everyone who wants to purchase this good (auction), and these D20 are paid from the personal funds of the purchaser of the good to its producer.
+
+D21. A reward (or penalty) for producing a good. (TDSS)
+A reward is not a payment!
+The reward/fine D21, D22, D23 and D25 (for the fine these are negative numbers) is generated by the acquirer of the good “out of nowhere” (unlike D20), and becomes the property of the producer of the good.
+D21 appear immediately upon the purchase of the good.
+
+D21 = KB * KKPProizv * D12; [R.2.1]-(F.2)
+Where
+KB is the Quality of the Good, -1 ... +1;
+KKPPProizv is the KKPP of the manufacturer of the good;
+D12 is the generalized price of the good.
+
+D22. A reward (or penalty) for the performance of a good. (TDSS)
+
+D22 = KRB * KIB * VRB * D12;  [R.2.1]-(F.3)
+Where
+KRB is the Quality of Work of the Good , -1 ... +1;
+KIB is the Good Utilization Coefficient , 0...1 ;
+VRB is the Time of Work of the Good;
+D12 is the generalized price of the good.
+
+D23. Reward (fine) for human (consumer) participation. (TDSS)
+
+D23 = KUCH * KKPPotr * VUCH; [R.2.1]-(F.6)
+Where
+KUCH is the Quality of Human Participation in the work of good, -1 ... +1;
+KKPPtr is the KKPP of the consumer of the good;
+VUCH is the Time of Human Participation in the work of good.
+
+D24. (TDSS) Always D24 = 0.
+
+D25. Reward (penalty) for consuming the aftereffect of a good. (TDSS)
+For a description, see R.2.4.
+
+The total costs of all resources (time and D1) necessary for a person to acquire physical and mental abilities to produce any specific good can be expressed in the equivalent amount of invested D1, which I called the term “Capitalization of Producer-Consumer Competencies”, CCPP.
+The QCP has the dimension of time, and its design will be described in more detail later.
+
+Section 2.2. How prices D10, D11 and D12 are calculated. (little important)
+
+Section 2.3. Money 2 from short-lived goods.
+
+The main generic difference between TCSS and TDSS is that the entire TCSS (as a rule) is consumed during its single use, so a completely different type of formula D22 must be used for them.
+To determine its correct form, I had to turn to the analysis of all the formulas for generating D2 from TDSS in the language of physics.
+We declare that the amount of D2 generated should be proportional to the (economic) benefit of the good. What is usually meant by economic benefit? Utility in economics is the amount of useful work. Useful work in physics is determined by the formula: Work = (Power) * (Work time);
+Let's compare this physical formula with the economic formulas for D2 from TDSS and rewrite them in the language of physics:
+if we remember that D12 is the same as Tproizv, then
+D21 ~= KKPProizv * Tproizv = (Producer capacity) * Tproizv;
+D22 ~= D12 * Tpotr ~ = (TDSS operating power) * Tpotr;
+D23 ~= KKPPotr * Tpotr = (Consumer power) * Tpotr;
+
+Here confirmation is required that (Power of TDSS operation) is proportional to D12, but this is exactly so both logically (two motors of the same power cost 2 times more than one) and empirically:
+A limited test has shown that for those TDSS whose performance quality depends to the greatest extent on the power they develop, the ratio of their price to power is almost a constant of 10 rubles per 1 Watt. I've taken LED lights, gas powered generators and some cars without expensive extras unrelated to their primary purpose - movement.
+To understand that the meaning of FCPP coincides with the meaning of power, it is enough to consider the connection between physical labor and human FCPP.
+Conclusion: TCSS can only perform one-time useful work, the volume of which (D22) must be proportional to the volume of useful work required to produce this TCSS (D21).
+Formulas for D2 from TKSS:
+D20. Payment for scarcity of a good. (TCSS) (no changes)
+
+D21. A reward (or penalty) for producing a good. (TCSS)
+
+D21 = KB * KKPProizv * D12; [R.2.3]-(F.2)
+
+KB at TKSS can take a full range of values from -1 to +1, because these goods are almost impossible to “check before buying”, their quality can only be known by starting to consume, so for them KB practically coincides with KB.
+
+D22. A reward (or penalty) for the performance of a good. (TCSS) (other!)
+
+D22 = KIB * KRB * KKPProizv * D12; [R.2.3]-(F.3)
+Where
+CIB is the Good Utilization Coefficient;
+KRB is the Quality of Good Work;
+
+D23. Reward (fine) for human (consumer) participation. (TCSS)
+
+D23 = KUCH * KKPPotr * VUCH; [R.2.3]-(F.4)
+
+D24. (TCSS) Always D24 = 0.
+
+D25. Reward (penalty) for consuming the aftereffect of a good. (TCSS)
+For a description, see R.2.4.
+
+Section 2.4. Money 2 from all types of non-educational services.
+
+Let's consider the production and consumption of goods in the form of services that are not directly related to changes in the consumer's CCP.
+Unlike the production of goods, the process of providing services by their manufacturer (the process of producing services) is completely combined with the process of receiving services by their consumer, but the personal participation of the consumer of services in the process of receiving them can be variable.
+For example, a haircut or massage requires the passive participation of the consumer. And to pass any tests, the active participation of the consumer is required. But if someone cleans your apartment or installs plumbing, then you, as a consumer, are not personally obligated to participate in the “consumption” of these processes (although you can).
+However, the process of consumption of services is very different only from the process of consumption of TDSS, but it is very similar to the process of consumption of TCSS: their only difference is that the process of production and consumption of TCSS are two different acts, separated by an arbitrary period of time, and in the provision of services this period of time simply disappears and the two acts merge into one.
+But for D2 generation formulas, this disappearance has practically no meaning and we can use all formulas from TKSS for services with a clear conscience.
+A small adjustment is needed only for D22: unlike TCSS, where KIB <= 1, because the product may not be completely consumed during consumption, for any service KIB is always = 1 and can be omitted.
 
-Д25. Награда (штраф) за потребление последействия блага. (Услуга)
+D25. Reward (penalty) for consuming the aftereffect of a good. (Service)
 
-Этот компонент формулы генерации Д2 для случая оказания услуг относится к "эффекту последействия" блага. Это тот случай, когда услуги уже произведены, но они ещё могут продолжать оказывать довольно заметное влияние на потребителя.
-Например, в вашей квартире покрасили стены медленно сохнущей краской и ещё сутки или двое в ней невозможно находится. Или вы пообедали в кафе, пришли домой и вам стало плохо, потому что вы в этом кафе чем-то отравились.
-Многие ТДСС и ТКСС (например все продукты питания) тоже могут оказывать эффект последействия.
-Но мне пока до конца не ясно, какова точная формула для Д25, и также до конца не понятно, может ли она отличаться для разных типов благ.
-Первый вариант формулы для Д25 скопирован из [Р.2.1]-(Ф.3), это формула для Д22 от ТДСС.
-Д25 = КРБ * КИБ * ВРБ * Д12;   [Р.2.4]-(Ф.5.1)
-где
-КРБ это Качество Работы Блага (услуги при её последействии);
-КИБ это Коэффициент Использования Блага (услуги при её последействии);
-ВРБ это Время Работы Блага (услуги при её последействии);
-Д12 это обобщённая цена блага (услуги).
-Более точный смысл коэффициента КИБ для последействия услуги это то, насколько силён эффект последействия по сравнению с силой эффекта первоначального действия.
+This component of the D2 generation formula for the case of service provision refers to the “aftereffect” of the benefit. This is the case when the services have already been produced, but they can still continue to have a fairly noticeable impact on the consumer.
+For example, the walls in your apartment were painted with slow-drying paint and it is impossible to stay in it for another day or two. Or you had lunch in a cafe, came home and felt bad because you were poisoned by something in this cafe.
+Many TDSS and TCSS (for example, all food products) can also have an aftereffect.
+But it is not yet completely clear to me what the exact formula for D25 is, and it is also not completely clear whether it may differ for different types of goods.
+The first version of the formula for D25 is copied from [R.2.1]-(F.3), this is the formula for D22 from TDSS.
+D25 = KRB * KIB * VRB * D12; [R.2.4]-(F.5.1)
+Where
+KRB is the Quality of Work of the Good (services with its aftereffect);
+CIB is the Coefficient of Use of the Good (service with its aftereffect);
+VRB is the Time of Operation of the Good (services during its aftereffect);
+D12 is the generalized price of a good (service).
+A more precise meaning of the CIB coefficient for the aftereffect of a service is how strong the aftereffect is compared to the strength of the effect of the initial action.
 
-Второй вариант формулы для Д25 скопирован из (Ф.4), это формула для генерации Д23 от самой услуги.
-Д25 = КУЧ * ККППотр * ВУЧ; [Р.2.4]-(Ф.5.2)
-где
-КУЧ это Качество Участия Человека в получении услуги (при её последействии);
-ККПП это ККПП, задействованная потребителем услуги (при её последействии);
-ВУЧ это Время Участия Человека в получении услуги (при её последействии).
-Для многих типов услуг, или для конкретных случаев их оказания никакого последействия нет (КИБ = КУЧ = 0) и соответственно Д25 = 0.
-Это может быть например услуга по ремонту бытового устройства, услуга по транспортной перевозке и другие услуги.
-Я склоняюсь к тому, что для последействия услуги "более верен" второй вариант формулы (Ф.5.2), потому что эффект от последействия очень похож на эффект Д23.
+The second version of the formula for D25 is copied from (F.4), this is the formula for generating D23 from the service itself.
+D25 = KUCH * KKPPotr * VUCH; [R.2.4]-(F.5.2)
+Where
+KUCH is the Quality of Human Participation in receiving the service (with its aftereffect);
+KKPP is the KKPP activated by the consumer of the service (at its aftereffect);
+VUCH is the Time of a Person’s Participation in receiving the service (with its aftereffect).
+For many types of services, or for specific cases of their provision, there is no aftereffect (CIB = KUCH = 0) and, accordingly, D25 = 0.
+This could be, for example, a household appliance repair service, a transportation service, or other services.
+I am inclined to think that for the aftereffect of a service the second version of the formula (F.5.2) is “more correct”, because the effect of the aftereffect is very similar to the effect of D23.
 
-Раздел 2.5. Деньги 2 от всех видов образовательных услуг.
+Section 2.5. Money 2 from all types of educational services.
 
-Образовательные услуги меняют ККПП их потребителя!
-Роботы-люди за 500 Кдолларов, а рабочие-люди - бесплатно? Нет! Людей тоже надо родить, вырасти и обучить, и это - дорогое удовольствие!
-Сопоставим формулы из раздела Р.2.1:
-Д22 ~ ВРБ * Д12,   где ВРБ - это время работы машины.
-Д23 ~ ВУЧ * ККПП,   где ВУЧ - это время участия человека.
-Видно, что ККПП человека выступает полным аналогом Д12 - трудозатратами на производство машины (робота).
-Поэтому в НЭС все затраты других людей на "производство" нового человека - аккумулируются в его ККПП и должны быть компенсированы сначала из госбюджета, а затем из заработков этого человека, когда и если он станет работать.
-И поэтому не только домашний труд, но и воспитание детей и даже вынашивание их до их рождения - такая же оплачиваемая работа, как и другая - по Д1. Но по Д2 эта работа даже более важна, чем любая другая, и этот факт ознаменуется введением Д24 специально для образовательных услуг - "услуг по производству новых людей".
-Точное определение общей ККПП человека - сложная задача, с учётом того, что учить можно и хорошему (+ККПП) и плохому (-ККПП).
-А при работе человека используется только часть его общей ККПП - именно она и входит во все соответствующие формулы.
+Educational services change the checkpoint of their consumer!
+Human robots for 500 Kdollars, and human workers for free? No! People also need to be born, grow up and educate, and this is an expensive pleasure!
+Let's compare the formulas from section P.2.1:
+D22 ~ VRB * D12, where VRB is the operating time of the machine.
+D23 ~ VUCH * KKPP, where VUCH is the time of human participation.
+It can be seen that the human CPP is a complete analogue of D12 - labor costs for the production of a machine (robot).
+Therefore, in the NES, all the costs of other people for the “production” of a new person are accumulated in his CPP and must be compensated first from the state budget, and then from the earnings of this person, when and if he begins to work.
+And therefore, not only domestic work, but also raising children and even bearing them until they are born is the same paid work as any other - according to D1. But according to D2, this work is even more important than any other, and this fact will be marked by the introduction of D24 specifically for educational services - “services for the production of new people.”
+Accurately determining a person’s general CKPP is a difficult task, taking into account the fact that both good (+KKPP) and bad (-KKPP) can be taught.
+And when a person works, only a part of his total ACPP is used - it is this that is included in all the corresponding formulas.
 
-ЕД2 = Д20 + Д21 + Д22 + Д23 + Д24 (+Д25);   [Р.2.5]-(Ф.1)
-Формулы для образовательных услуг являются копиями формул для обычных услуг (а следовательно - и копиями формул для ТКСС), но смысл некоторых их частей имеет специфические особенности.
+ED2 = D20 + D21 + D22 + D23 + D24 (+D25); [R.2.5]-(F.1)
+Formulas for educational services are copies of formulas for ordinary services (and therefore copies of formulas for TKSS), but the meaning of some of their parts has specific features.
 
-Д20. Плата за дефицитность блага. (Образ.) Без изменений.
+D20. Payment for scarcity of a good. (Image) No changes.
 
-Д21. Награда (или штраф) за производство блага. (Образ.)
+D21. A reward (or penalty) for producing a good. (Image.)
 
-Д21 = КБ * ККППУ * Д12;   [Р.2.5]-(Ф.2)
-где
-КБ это Качество Блага, качество оказания услуги со стороны учителя;
-ККППУ это ККПП учителя (производителя блага);
-Д12 это обобщённая цена блага (плата учителю за урок).
+D21 = KB * KKPPU * D12; [R.2.5]-(F.2)
+Where
+KB is the Quality of Good, the quality of service provided by the teacher;
+KKPPU is the KKPP of the teacher (producer of the good);
+D12 is the generalized price of the good (payment to the teacher for the lesson).
 
-Д22. Награда (или штраф) за потребление блага. (Образ.)
+D22. A reward (or penalty) for consuming a good. (Image.)
 
-Д22 = КРБ * ККППУ * Д12;   [Р.2.5]-(Ф.3)
-где
-КРБ это Качество Работы Блага (качество потребления услуги со стороны ученика);
-ККППУ это ККПП учителя (производителя блага);
-Д12 это обобщённая цена блага (плата учителю за урок).
-Пример: учитель с КБ = 1, но ученик невнимателен с КРБ = 0.
+D22 = KRB * KKPPU * D12; [R.2.5]-(F.3)
+Where
+KRB is the Quality of Good Work (the quality of service consumption on the part of the student);
+KKPPU is the KKPP of the teacher (producer of the good);
+D12 is the generalized price of the good (payment to the teacher for the lesson).
+Example: a teacher with KB = 1, but a student is inattentive with KB = 0.
 
-Д23. Награда (штраф) за участие человека (потребителя). (Образ.)
+D23. Reward (fine) for human (consumer) participation. (Image.)
 
-Д23 = КУЧ * ККППу * ВУЧ;   [Р.2.5]-(Ф.4)
-где
-КУЧ это Качество Участия Человека (ученика) в получении услуги;
-ККППу это ККПП ученика, задействованная для потребления услуги;
-ВУЧ это Время Участия Человека (ученика) в получении услуги.
+D23 = KUCH * KKPPu * VUCH; [R.2.5]-(F.4)
+Where
+KUCH is the Quality of Participation of a Person (student) in receiving a service;
+KKPPu is the student’s KKPP involved in consuming the service;
+VUCH is the Time of Participation of a Person (student) in receiving the service.
 
-Д25. Награда (штраф) за потребление последействия блага. (Образ.)
+D25. Reward (penalty) for consuming the aftereffect of a good. (Image.)
 
-Возможный вид формулы скопирован из [Р.2.4]-(Ф.5.2):
-Д25 = КУЧ * ККППу * ВУЧ;
+A possible form of the formula is copied from [R.2.4]-(F.5.2):
+D25 = KUCH * KKPPu * VUCH;
 
-Д24. Награда (штраф) за последующую работу учеников. (Образ.)
+D24. Reward (fine) for subsequent work of students. (Image.)
 
-Д24 = Д2у * ККППуУ / ККППу;   [Р.2.5]-(Ф5)
-где
-Д2у это полная величина Д2, порождённая кем-то за любую работу потребителя образовательной услуги (ученика), совершённую им после обучения (величина Д2у может быть в том числе отрицательной);
-ККППу это полная величина ККПП потребителя (ученика), которая была необходима для совершения полезной работы;
-ККППуУ это часть ККППу, которую при обучении ученика внёс производитель образовательной услуги - Учитель.
-Важно иметь ввиду, что награда Д24 появляется "из ниоткуда" и только благодаря тем доходам ученика в Д2, которые зависят от его ККПП.
+D24 = D2u * KKPPuU / KKPPu; [R.2.5]-(F5)
+Where
+D2y is the full value of D2 generated by someone for any work of a consumer of an educational service (student) performed by him after training (the value of D2y can also be negative);
+KKPPu is the full value of the consumer (student) KKPP, which was necessary to perform useful work;
+KKPPuU is part of the KKPPu, which was contributed by the educational service provider - the Teacher, when teaching a student.
+It is important to keep in mind that the D24 award appears “out of nowhere” and only thanks to the student’s income in D2, which depends on his KKPP.
 
-Раздел 2.6. Потребление образовательных услуг и ККПП.
+Section 2.6. Consumption of educational services and CCPP.
 
-Это сложный раздел, в котором подробно описано как образование влияет на ККПП, а также уточнены детали, касающиеся Д24. См. Том 5!
+This is a complex section that details how education affects CKPP and also elaborates on the details regarding D24. See Volume 5.
 
-Раздел 2.7. Примерные значения ККПП человека.
+Section 2.7. Approximate values of human CKPP.
 
-Формула [Р.2.6]-(Ф.5) для вклада учителя средней квалификации в ККПП ученика для идеального случая:
-ККППуУ ~= ВР,      где ВР это время работы учителя.
+Formula [R.2.6]-(F.5) for the contribution of a semi-qualified teacher to the student’s CCPP for the ideal case:
+KKPPuU ~= VR, where VR is the teacher’s working time.
 
-Можно грубо разделить любую человеческую деятельность на две части - Физическую работу (за которую отвечает ФККПП) и Умственную работу (за которую отвечает УККПП), каждая из которых имеет свою долю в полной ККПП человека, и ККПП = ФККПП + УККПП.
-В зависимости от типа деятельности некоторые доли этих двух частей ККПП будут использоваться одновременно в той или иной пропорции.
+Any human activity can be roughly divided into two parts - Physical work (for which the FKKPP is responsible) and Mental work (for which the UKKPP is responsible), each of which has its share in the total KKPP of a person, and KKPP = FKKPP + UKKPP.
+Depending on the type of activity, some shares of these two parts of the CCPP will be used simultaneously in one proportion or another.
 
-Мы можем выделить несколько периодов роста и обучения человека.
+We can identify several periods of human growth and learning.
 
-0. Нулевой цикл - рост и обучение до рождения.
+0. Zero cycle - growth and learning before birth.
 
-Когда человек рождается - он уже кое-что умеет и УККПП0 примерно равна 300 часам. И если нам нужно будет где-либо использовать УККПП спящего человка, то она будет примерно равна УККПП0.
-ФККПП новорождённого ребёнка должна быть гораздо больше, ибо в утробе матери его тело растёт непрерывно, и это количеству часов за 280 дней протекания беременности:
-ФККПП0 = 24 час * 280 ~= 6700 часов.
-Эта ФККПП происходит полностью за счёт материнского организма, поэтому данная часть ФККПП ребёнка - целиком вклад его матери.
-Т.о. для новорожденного общая ККПП0 ~= 7000 час.
-Важное следствие того, что в НЭС ребёнок в утробе матери уже является человеком и соответственно актором экономики: при потреблении некоторых благ беременной матерью надо учитывать и вклад её ребёнка. Например если мать едет на автомобиле, то и её нерождённый ребёнок является пассажиром - потребителем услуг по перевозке, и он генерирует Д2.
-
-1. Рост и базовое обучение основным навыкам человека, таким, которые используются всегда.
-
-Для грубой прикидки можно допустить, что в течении первых 7 лет ребёнок учится "быть человеком" каждый день по 6 часов.
-Это даст нам величину УККПП7 ~ = 15 000 часов.
-Можно предположить, т.о. что к 1 году УККПП1 ~= 3000 час.
-ФККПП определена оригинальным способом, по росту и весу ребёнка при рождении и их дальнейшему увеличению, см. Том 5.
-
-УККПП1 ~ = 3 К час,
-ФККПП1 ~ = 13 К час,
-ККПП1 ~ = 16 К час.
-
-УККПП7 = 15 К час,
-ФККПП7 = 26 К час,
-ККПП7 = 41 К час.
-
-2. Школьное обучение.
-
-В общем, наверное можно считать, что человек учится в школе и вне её в течении 10 лет каждый день по 8 часов, из которых только 4 часа ему реально нужны будут для дальнейшей карьеры.
-Это даст нам величину (УККПП17 - УККПП7) ~ = 15 000 часов.
-
-3а. Профессиональное обучение простым специальностям.
-
-Примем цифры обучения те же, что и в школе, но в течении 2-х лет.
-Это даст нам добавочную величину УККПП ~= 3 000 часов.
-
-3б. Высшая школа.
-
-Обучение 5 лет по 8 часов в день, и всё это нужно для эффективной трудовой деятельности.
-Это даст нам добавочную величину УККПП ~= 15 000 часов.
-
-4. Получение опыта работы на производстве.
-
-Наверное цифры тут могут быть примерно в 2-3 раза меньше чем для этапа 3, то есть от 2000 до 5000 часов.
-
-Итого получим примерно:
-1. Умственная ККППмакс
--для простых профессий 15+15+3+2 = 35 000 часов;
--для сложных профессий 15+15+15+5 = 50 000 часов и больше.
-2. Физическая ККППмакс (после 25 лет) = 50 000 часов и больше.
-3. Общая ККППмакс = 85 000 ... 100 000 часов и больше
-
-Можно предположить, что в подавляющем числе случаев величина ККПП, используемая для производства благ, находится в диапазоне от 40 до 80 тысяч часов.
-
-Могу предположить, что диапазон значений УККПП, необходимых для (пассивного) потребления благ, составляет в среднем от 1-й до 10-ти тысяч часов, а по поводу аналогичного диапазона ФККПП я ещё не составил окончательного мнения.
-
-Раздел 2.8. Генерация Денег 2 при производстве благ.
-
-Давайте выделим некоторый набор отдельных благ в виде производства достаточно характерных товаров и услуг и рассчитаем для них величины Д12, а затем определим и все генерируемые потоки Д2.
-В месяце около 160 рабочих часов, это эквивалентно медианной зарплате в 250 рублей в час для РФ в 2022 году.
-Всюду Д20 = 0, так как массовые товары не являются дефицитом.
-
-1. Стул (офисный). ТДСС стоимостью Д1 = 10 час.
-
-ККППроизв = 80 Кчас, ККППотр = 24 Кчас.
-Д2 за 1 год эксплуатации стула (в скобках за 5 лет):
-Д21 = 800 Ккв.час (не меняется)
-Д22 = 10 Ккв.час (50 К)
-Д23 = 24 Мкв.час (120 М)
-ЕД2 = 25 Мкв.час (120 М)
-Отношение ЕД2/Д1 ~= 2.5 Мчас (12 М)
-Д22/Д21= 0.013 (0.063)
-Д23/Д21= 30 (150)
-Д23/Д22= 2 400  (не меняется)
-
-2. Компьютер (ПК). ТДСС стоимостью Д1 = 240 час.
-
-ККППроизв = 80 Кчас, ККППотр (пассив/актив) = 20...60 Кчас.
-Максимум Д2 за 1 год (5 лет) эксплуатации ПК:
-Д21 = 19 Мкв.час
-Д22 = 900 Ккв.час (4.3 М)
-Д23 = 150 Мкв.час (720 М)
-ЕД2 = 170 Мкв.час (740 М)
-Отношение ЕД2/Д1 = 700 Кчас (3.1 М)
-Д22/Д21 = 0.050 (0.22)
-Д23/Д21 = 8 (38)
-Д23/Д22 = 170.
-
-4. Автомобиль (личный). ТДСС стоимостью Д1 = 2800 час.
-
-ККППроизв = 80 Кчас, ККППотр =10...50 Кчас (пассажир/водитель).
-Д2 за 1 год (8 лет) эксплуатации автомобиля:
-Д21 = 224 Мкв.час
-Д22 = 83 Ккв.час (660 К)
-Д23 = 35 Мкв.час (280 М)
-ЕД2 = 260 Мкв.час (500 М).
-Отношение ЕД2/Д1 = 90 Кчас (180 К)
-Д22/Д21 = 0.0004 (0.003)
-Д23/Д21 = 0.16 (1.25)
-Д23/Д22 = 420.
-
-То же, каршеринг (Москва).
-
-Д2 за 1 год (8 лет) эксплуатации автомобиля:
-Д21 = 224 Мкв.час
-Д22 = 670 Ккв.час (5.3 М)
-Д23 = 160 Мкв.час. (1300 М)
-ЕД2 = 385 Мкв.час (1530 М).
-Отношение ЕД2/Д1 ~= 140 Кчас ( 550 Кчас)
-Д22/Д21 = 0.003 (0.024)
-Д23/Д21 = 0.7 (6)
-Д23/Д22 = 240.
-
-7. Хлеб (простой, 1 кг). ТКСС стоимостью Д1 = 0.8 час.
-
-ККППроизв = 60 Кчас, ККППотр = 12 Кчас.
-Д2 при потреблении 1 кг хлеба:
-Д21 = Д22 =  48 Ккв.час
-Д23 = 24 К кв.час
-ЕД2 = 120 К кв.час
-Отношение ЕД2/Д1 = 150 Кчас
-Д22/Д21 = 1.0
-Д23/Д21 = Д23/Д22 = 0.5
-
-При учёте эффекта последействия:
-Д25 = 80 Ккв.час
-ЕД2 = 200 Ккв.час
-Отношение ЕД2/Д1 = 250 Кчас.
-Д25/Д21 = 1.7
-
-10. Курсы программирования - это образовательные услуги.
-
-Время обучения 100 час, (повышенная) стоимость Д1 = 200 час.
-ККППроизв = 80 Кчас, ККППотр = 40 Кчас.
-Д21 = Д22 = 16 Мкв.час
-Д23 = 4 Мкв.час
-ЕД2 = 36 Мкв.час
-Отношение ЕД2/Д1 = 180 Кчас.
-Д22/Д21 = 1.0
-Д23/Д21 = Д23/Д22 = 0.25
-
-Премия учителя в Д24, если ученик станет работать программистом.
-Примем, что программное обеспечение программиста не требует участия человека, поэтому оно генерит величину Д23 = 0.
-(Замечу, что величина Д23, возникающая у ПО, требующего для своей эксплуатации участия человека, может быть гигантской - см. ниже кейс видеоролика! Так что и премия учителя может сильно вырасти.)
-Тогда за каждый год работы ученика учитель будет получать премию в размере Д24 = 2 .4 Мкв.час.
-Таким образом, если ученик проработает программистом 15 лет, то сгенерированная при этом премия его учителя в Д24 уже сравняется с суммой ЕД2, полученной им непосредственно за курс  обучения.
-По-моему, не так уж плохо... (а при учёте ненулевой доли Д23 эта премия может возрасти в 10, 100 и даже 1000 раз).
-
-11. Воспитание детей - это обычные и образовательные услуги.
-
-Определим доходы матери одного ребёнка от момента зачатия и до его совершеннолетия в 18 лет.
-Можно предложить такую экономическую модель.
-Любая беременная женщина трудится на благо ребёнка 24 часа в сутки на всём протяжении беременности. Однако интенсивность этого труда постепенно возрастает от 0 до 100% в промежутке времени от момента зачатия до момента рождения. Этот процесс роста интенсивности труда матери аналогичен возрастанию КИБ в формуле для Д22.
-Чтобы определить вклад труда самой женщины в вынашиваемого ею ребёнка при беременности и соответственно - размер оплаты этого труда, надо учесть множество факторов, не всегда строго экономических. 
-Далее я приведу своё субъективное мнение.
-Предположим, что у будущей мамы в животике не один, а целых три ребёночка. Этот случай и будет означать 100%-ю интенсивность труда матери в конце срока её беременности, а по времени это будет 24 часа работы в сутки без выходных.
-В обычном же случае беременности одним ребёнком эти цифры следует разделить на 3, то есть в процессе беременности рабочее время матери должно линейно возрастать от 0 до 8 часов в сутки на 280-й день беременности (это средний срок вынашивания ребёнка), и если брать в среднем, то это по 4 часа работы в сутки, без выходных.
-В этой модели полное рабочее время матери к моменту рождения ребёнка в среднем будет составлять такую величину:
-Д1 = 4 часа * 280 суток = 1120 часов, что эквивалентно 7 месяцам "обычной" работы по 160 рабочих часов в месяц.
-
-Теперь определим доход женщины в Д2 во время беременности.
-Мы можем рассматривать этот период как непрерывное производство услуг - услуг вынашивания своего ребёнка.
-То есть, на этапе беременности мы можем использовать для труда матери формулы для необразовательных услуг из раздела 2.4.
-Примем (минимальную) материнскую ККППроизв = 70 Кчас.
-В разделе 2.7. мы определили, что ККПП ребёнка при рождении равна  7000 часам. Можно предположить, что она линейно растёт от 0 до 7000 часов в течении срока беременности, а в среднем ККППотр = 3500 час.
-
-Тогда примерные величины Д2 за 280 дней беременности:
-Д21 = Д22 = 78 М кв.час.
-Д23 = 24 М кв.час.
-ЕД2 = 180 М кв.час.
-Отношение ЕД2/Д1 = 160 К час.
-Д22/Д21 = 1.0
-Д23/Д21 = Д23/Д22 = 0.31
-
-Теперь рассмотрим труд матери по уходу за ребёнком, его воспитанию и обучению с момента рождения и до его совершеннолетия в 18 лет.
-[Эту часть раздела я оставляю на будущее.]
-
-12. Видеоролик на видеохостинге - это  ТКСС.
-
-Параметры полусуммы двух топовых видеороликов с канала Игоря Рыбакова, имеющего около 2.5 миллионов подписчиков, таковы: длительность 0.25 час, число просмотров 4 миллиона, трудозатраты в Д12  видимо около 10 час.
-Определим, сколько Д2 можно заработать на одном ролике, если считать, что число лайков намного превышает число дизлайков, то есть качество блага близко к 1.
-Чтобы получить суммарные величины всех компонентов Д2, нам надо для Д23 учесть количество просмотров ролика, КПР = 4 000 000 = 4 М раз.
-
-ККППроизв = 80 Кчас, ККППотр = 10 Кчас.
-Д21 = 0.8 Мкв.час
-Д22 = 0.2 Мкв.час
-ЕД23 = Д23 * КПР = 4 000 Мкв.час
-Отношение ЕД2/Д1 = 400 Мчас
-Д22/Д21 = 0.25
-ЕД23/Д21 = 5000
-Д23/Д22 = 20 000.
-
-У популярного видеоролика получаются прямо-таки сумасшедший поток денег Д23, который приводит к умопомрачительному отношению Д2/Д1 в 400 Мега-часов.
-Но следует помнить, что такая цифра Д23 для видеоролика возникла исключительно благодаря огромному числу его просмотров - 4 миллиона.
-Рядовые ролики на рядовых каналов просматривают примерно в 1000 раз меньшее количество людей. При этом отношение Д2/Д1 для похожих роликов будет около 400 Кило-часов.
-В связи с таким огромным потоком Д2 становится особенно актуально перераспределение Д2 от "богатых к бедным" - налогообложение высокодоходных по Д2/Д1 отраслей производства и дотации в пользу низко доходных отраслей.
-
-14. Электроэнергия для частного потребителя - это ТКСС.
-
-В 2023 году стоимость 1 КилоВатт-Часа электроэнергии в Москве составляла примерно 6.4 рубля. Определим параметры Д1 и Д2 при потреблении 1-м человеком 100 КВтЧас электроэнергии за 1 месяц.
-Стоимость этой электроэнергии равна 640 рублей, или 2.5 часа в Д1.
-Среднее ККПП потребителя и ВУЧ определяются по использованию электрических приборов, в моём случае это работа на компьютере,  потребление освещения квартиры и приготовление еды.
-
-ККППроизв = 80 Кчас, ККППотр = 30 Кчас.
-Д21 = Д22 = 200 Ккв.час
-Д23 = 3600 Ккв.час
-ЕД2 = 4 Мкв.час
-Отношение ЕД2/Д1 = 1.6 М час
-Д22/Д21 = 1.0
-Д23/Д21 = Д23/Д22 = 18.
-
-Отношение ЕД2/Д1 как ни странно весьма высоко (примерно как у компьютера за всё время его эксплуатации) и зависит довольно сильно от того, на какие потребительские цели используется электричество.
-
-15. Бензин  для частного потребителя - это ТКСС.
-
-Попробуем определить потоки Д2 для производителя бензина на примере потребления его в московском частном автомобиле.
-Исходные данные:
--средняя загруженность автомобиля 1.4 человека,
--средняя скорость движения в городе 25 км/час,
--расход бензина в городе 10 литров на 100 км,
--стоимость бензина 50 рублей за 1 литр.
-
-ККППроизв = 60 Кчас, ККППотр = 10...50 Кчас (пассажир/водитель).
-Д21 = Д22 = 120 Ккв.час
-Д23 = 216 Ккв.час
-ЕД2 = 456 Ккв.час
-Отношение ЕД2/Д1 = 228 Кчас
-Д22/Д21 = 1.0
-Д23/Д21 = Д23/Д22 = 1.8
-
-По сравнению с производством электроэнергии производство бензина в 7 раз менее выгодно по соотношению ЕД2/Д1.
-Кроме того, у бензина отношение Д23/Д22 = Д23/Д21 в 10 раз меньше, чем у электроэнергии. Причина в том, что электричество - гораздо более дешёвый и эффективный источник энергии, чем бензин.
-
-Для московского каршеринга.
-
-Д21 = Д22 = 120 Ккв.час
-Д23 = 296 Ккв.час
-ЕД2 = 536 Ккв.час
-Отношение ЕД2/Д1 = 268 Кчас
-Д22/Д21 = 1.0
-Д23/Д21 = Д23/Д22 = 2.5
-
-Раздел 2.9. Балансировка Денег 2: налоги и дотации.
-
-Это раздел, в котором описано как можно и нужно перераспределить различные потоки Д2 от высокодоходных областей экономики к низкодоходным, с учётом их полезности для общества.
-Здесь также изложен ряд идей, на основе которых можно сделать НЭС полностью соответствующей всем принципам гендерного равенства.
-
-Раздел 2.10. Нормировка Денег 2: нет инфляции!
-
-В этом разделе предлагается простой механизм для практически моментального (по меркам экономики) устранения инфляции по Д2, вызванной постоянно растущей со временем массой Д2.
-При этом деньги Д2 приобретают свойства денег Гезелля, что само по себе весьма полезно, так как значительно увеличивает экономическую активность их владельцев.
-
-Литература и линки.
-
-[Л.0] Сайт автора https://vmgames.com/ru/
-Email для связи: vm@vmgames.com
-
-Гитхаб https://github.com/vadimrm
-Мосхаб https://hub.mos.ru/vm
-Вконтакте https://vk.com/vadimrm
-Ютьюб https://www.youtube.com/@vadim_rm/videos
-Ассоциация футурологов http://futurologija.ru/author/madgazin/
-ЖЖ https://vadimrm.livejournal.com/
-Рутьюб https://rutube.ru/channel/25615968/videos/
-
-[Л.1] Мадгазин Вадим Римович. Избранные труды. Том 1.
-Новый Завет Политической Экономии. Благая Весть Капитализма и Коммунизма в Информационную Эру. 2019
-
-[Л.2] Мадгазин Вадим Римович. Избранные труды. Том 2.
-Новая Урбанистическая Система. Прекрасные города будущего, и их счастливые жители. 2021
-
-[Л.3] Мадгазин Вадим Римович. Избранные труды. Том 3.
-Геополитика и Власть. 2022
-
-[Л.4] Мадгазин Вадим Римович. Избранные труды. Том 4.
-Духовно-нравственный мир. 2022
-
-[Л.5] Мадгазин Вадим Римович. Избранные труды. Том 5.
-Евангелие Политэкономии. Интегральная экономика. Начала. 2023
-
-Все тома и данный текст можно найти здесь: https://vmgames.com/ru/
-
-[Л.6] 2D-экономика. Что это такое и как на этом можно заработать
+knows something and UKKPP0 is approximately equal to 300 hours. And if we need to use the sleeping person’s UKCPC anywhere, then it will be approximately equal to UKCP0.
+The FCC of a newborn child should be much larger, because in the womb his body grows continuously, and this is the number of hours during 280 days of pregnancy:
+FKKPP0 = 24 hours * 280 ~= 6700 hours.
+This FKKPP occurs entirely at the expense of the mother’s body, therefore this part of the child’s FKKPP is entirely the contribution of his mother.
+That. for a newborn, the total CKPP0 ~= 7000 hours.
+An important consequence of the fact that in the NES the child in the womb is already a person and, accordingly, an economic actor: when consuming some goods by a pregnant mother, the contribution of her child must also be taken into account. For example, if a mother is driving a car, then her unborn child is also a passenger - a consumer of transportation services, and he generates D2.
+
+1. Growth and basic learning of basic human skills , those that are always used.
+
+For a rough estimate, we can assume that during the first 7 years a child learns to “be a human being” every day for 6 hours.
+This will give us the value of UKKPP7 ~ = 15,000 hours.
+It can be assumed that that by 1 year UKKPP1 ~= 3000 hours.
+FKKPP is determined in an original way, based on the height and weight of the child at birth and their further increase, see Volume 5.
+
+UKKPP1 ~ = 3 K hour,
+FKKPP1 ~ = 13 K hour,
+KKPP1 ~ = 16 K hour.
+
+UKKPP7 = 15 K hour,
+FKKPP7 = 26 K hour,
+KKPP7 = 41 K hour.
+
+2. Schooling.
+
+In general, we can probably assume that a person studies in and out of school for 8 hours every day for 10 years, of which only 4 hours he will actually need for his future career.
+This will give us the value (UKKPP17 - UKKPP7) ~ = 15,000 hours.
+
+3a. Vocational training in simple professions.
+
+Let's take the same training figures as at school, but for 2 years.
+This will give us an additional value of UKPP ~= 3,000 hours.
+
+3b. Graduate School.
+
+Training is 5 years, 8 hours a day, and all this is necessary for effective work.
+This will give us an additional value of UKPP ~= 15,000 hours.
+
+4. Gaining experience in production.
+
+Probably the numbers here can be about 2-3 times less than for stage 3, that is, from 2000 to 5000 hours.
+
+In total we get approximately :
+1. Mental CKPPmax
+-for simple professions 15+15+3+2 = 35,000 hours;
+-for complex professions 15+15+15+5 = 50,000 hours or more.
+2. Physical KKPPmax (after 25 years) = 50,000 hours or more.
+3. Total KKPPmax = 85,000 ... 100,000 hours and more
+
+It can be assumed that in the overwhelming majority of cases, the value of the CPP used for the production of goods is in the range from 40 to 80 thousand hours.
+
+I can assume that the range of ECPP values required for (passive) consumption of goods averages from 1 to 10 thousand hours, and I have not yet made a final opinion regarding the similar range of FCPP.
+
+Section 2.8. Generation of Money 2 in the production of goods.
+
+Let's highlight a certain set of individual goods in the form of the production of fairly characteristic goods and services and calculate the D12 values for them, and then determine all the generated D2 flows.
+There are about 160 working hours per month, this is equivalent to the median salary of 250 rubles per hour for the Russian Federation in 2022.
+Everywhere D20 = 0, since mass goods are not in short supply.
+
+1. Chair (office) . TDSS cost D1 = 10 hours.
+
+KKPProizvod = 80 Kh, KKPPotr = 24 Kh.
+D2 for 1 year of use of the chair (in brackets for 5 years):
+D21 = 800 kW.hour (does not change)
+D22 = 10 Kkv.h (50 K)
+D23 = 24 mkv.hour (120 M)
+ED2 = 25 mkv.hour (120 M)
+Ratio ED2/D1 ~= 2.5 Mhour (12 M)
+D22/D21= 0.013 (0.063)
+D23/D21= 30 (150)
+D23/D22= 2,400 (does not change)
+
+2. Computer (PC) . TDSS cost D1 = 240 hours.
+
+KKPProizvod = 80 Kh, KKPPotr (passive/active) = 20...60 Kh.
+Maximum D2 for 1 year (5 years) of PC operation:
+D21 = 19 mkv.hour
+D22 = 900 kW.hour (4.3 M)
+D23 = 150 mkv.hour (720 M)
+ED2 = 170 mkv.hour (740 M)
+Ratio ED2/D1 = 700 Kh (3.1 M)
+D22/D21 = 0.050 (0.22)
+D23/D21 = 8 (38)
+D23/D22 = 170.
+
+4. Car (personal) . TDSS cost D1 = 2800 hours.
+
+KKPProizvod = 80 Kh, KKPPotr =10...50 Kh (passenger/driver).
+D2 for 1 year (8 years) of vehicle operation:
+D21 = 224 mkv.hour
+D22 = 83 Kkv.h (660 K)
+D23 = 35 mkv.hour (280 M)
+ED2 = 260 mkv.h (500 M).
+Ratio ED2/D1 = 90 Kh (180 K)
+D22/D21 = 0.0004 (0.003)
+D23/D21 = 0.16 (1.25)
+D23/D22 = 420.
+
+The same, carsharing (Moscow).
+
+D2 for 1 year (8 years) of vehicle operation:
+D21 = 224 mkv.hour
+D22 = 670 kW.hour (5.3 M)
+D23 = 1 60 M square hour. (1300 M )
+ED2 = 385 mkv.h ( 1530 M).
+ED2/D1 ratio ~= 14 0 Kh ( 550 Kh )
+D22/D21 = 0.003 (0.024)
+D23/D21 = 0.7 (6)
+D23/D22 = 240.
+
+7. Bread (plain, 1 kg) . TCSS cost D1 = 0.8 hour.
+
+KKPProizvod = 60 Kh, KKPPotr = 12 Kh.
+D2 when consuming 1 kg of bread:
+D21 = D22 = 48 Ksq.hour
+D23 = 24 K square hour
+ED2 = 120 K square hour
+Ratio ED2/D1 = 150 Kh
+D22/D21 = 1.0
+D23/D21 = D23/D22 = 0.5
+
+When taking into account the aftereffect:
+D25 = 80 kW.hour
+ED2 = 200 Kkv.h
+Ratio ED2/D1 = 250 Kh.
+D25/D21 = 1.7
+
+10. Programming courses are educational services.
+
+Training time 100 hours, (increased) cost D1 = 200 hours.
+KKPProizvod = 80 Kh, KKPPotr = 40 Kh.
+D21 = D22 = 16 mkv.hour
+D23 = 4 mkv.hour
+ED2 = 36 mkv.hour
+Ratio ED2/D1 = 180 Kh.
+D22/D21 = 1.0
+D23/D21 = D23/D22 = 0.25
+
+Teacher's bonus in D24 if the student starts working as a programmer.
+Let us assume that the programmer’s software does not require human participation, so it generates the value D23 = 0.
+(I note that the D23 value arising from software that requires human participation for its operation can be gigantic - see the video case below! So the teacher’s bonus can also increase significantly.)
+Then for each year of work of the student, the teacher will receive a bonus in the amount of D24 = 2.4 Mkv.hour.
+Thus, if a student works as a programmer for 15 years, then the bonus generated by his teacher in D24 will already be equal to the amount of ED2 he received directly for the course of study.
+In my opinion, not so bad... (and when taking into account the non-zero share of D23, this premium can increase 10, 100 and even 1000 times).
+
+11. Raising children includes regular and educational services.
+
+Let us determine the income of the mother of one child from the moment of conception until he comes of age at 18 years old.
+We can propose such an economic model.
+Any pregnant woman works for the benefit of the child 24 hours a day throughout her pregnancy. However, the intensity of this labor gradually increases from 0 to 100% in the period of time from the moment of conception to the moment of birth. This process of increasing the mother’s labor intensity is similar to the increase in CIB in the formula for D22.
+In order to determine the contribution of the woman’s labor to the child she carries during pregnancy and, accordingly, the amount of payment for this labor, it is necessary to take into account many factors, not always strictly economic.
+Next I will give my subjective opinion.
+Let's assume that the expectant mother has not one, but three babies in her tummy. This case will mean 100% intensity of the mother’s work at the end of her pregnancy, and in time it will be 24 hours of work a day, seven days a week.
+In the usual case of pregnancy with one child, these figures should be divided by 3, that is, during pregnancy, the mother’s working time should increase linearly from 0 to 8 hours a day on the 280th day of pregnancy (this is the average period of gestation of a child), and if we take On average, this is 4 hours of work per day, seven days a week.
+In this model, the mother’s full working time at the time of the birth of the child will on average be as follows:
+D1 = 4 hours * 280 days = 1120 hours, which is equivalent to 7 months of “regular” work of 160 working hours per month.
+
+Now let’s determine the woman’s income in D2 during pregnancy.
+We can consider this period as a continuous production of services - the services of bearing your child.
+That is, during the pregnancy stage we can use the formulas for non-educational services from section 2.4 for the mother’s labor.
+Let's take the (minimum) maternal KKPProizv = 70 Kh.
+In section 2.7. We determined that a child’s CKPT at birth is 7000 hours. It can be assumed that it grows linearly from 0 to 7000 hours during pregnancy, and on average CPPotr = 3500 hours.
+
+Then the approximate values of D2 for 280 days of pregnancy:
+D21 = D22 = 78 M square hour.
+D23 = 24 M square hour.
+ED2 = 180 M square hour.
+Ratio ED2/D1 = 160 K hour.
+D22/D21 = 1.0
+D23/D21 = D23/D22 = 0.31
+
+Now let us consider the work of a mother in caring for a child, raising and educating him from the moment of birth until he comes of age at 18 years old.
+[I leave this part of the section for the future.]
+
+12. A video on video hosting is TCSS.
+
+The parameters of the half-sum of the two top videos from Igor Rybakov’s channel, which has about 2.5 million subscribers, are as follows: duration 0.25 hour, number of views 4 million, labor costs in D12 apparently about 10 hours.
+Let’s determine how much D2 you can earn on one video, if we assume that the number of likes is much greater than the number of dislikes, that is, the quality of the good is close to 1.
+To obtain the total values of all components of D2, we need to take into account the number of views of the video for D23, KPR = 4,000,000 = 4 M times.
+
+KKPProizvod = 80 Kh, KKPPotr = 10 Kh.
+D21 = 0.8 mkv.hour
+D22 = 0.2 mkv.hour
+ED23 = D23 * KPR = 4,000 mkv.hour
+Ratio ED2/D1 = 400 Mhour
+D22/D21 = 0.25
+ED23/D21 = 5000
+D23/D22 = 20,000.
+
+The popular video gets a crazy amount of D23 money, which results in a mind-blowing D2/D1 ratio of 400 Mega Hours.
+But it should be remembered that this D23 figure for the video arose solely due to the huge number of its views - 4 million.
+Ordinary videos on ordinary channels are viewed by approximately 1000 times fewer people. In this case, the D2/D1 ratio for similar videos will be about 400 Kilo-hours.
+In connection with such a huge flow of D2, the redistribution of D2 from “rich to poor” becomes especially important - taxation of highly profitable D2/D1 industries and subsidies in favor of low-income industries.
+
+14. Electricity for a private consumer is TCSS.
+
+In 2023, the cost of 1 KiloWatt-Hour of electricity in Moscow was approximately 6.4 rubles. Let us determine parameters D1 and D2 when 1 person consumes 100 kWh of electricity in 1 month.
+The cost of this electricity is 640 rubles, or 2.5 hours in D1.
+The consumer's average ACPP and VUC are determined by the use of electrical appliances, in my case this is working on a computer, consumption of apartment lighting and cooking.
+
+KKPProizvod = 80 Kh, KKPPotr = 30 Kh.
+D21 = D22 = 200 kW.hour
+D23 = 3600 Kkv.h
+ED2 = 4 mkv.hour
+Ratio ED2/D1 = 1.6 M hour
+D22/D21 = 1.0
+D23/D21 = D23/D22 = 18.
+
+The ED2/D1 ratio, oddly enough, is very high (about the same as that of a computer over the entire period of its operation) and depends quite strongly on the consumer purposes for which electricity is used.
+
+15. Gasoline for private consumers is TCSS.
+
+Let's try to determine D2 flows for a gasoline producer using the example of its consumption in a Moscow private car.
+Initial data:
+-average vehicle load 1.4 people,
+-average speed in the city is 25 km/h,
+-gasoline consumption in the city is 10 liters per 100 km,
+- the cost of gasoline is 50 rubles per 1 liter.
+
+KKPProizvod = 60 Kh, KKPPotr = 10...50 Kh (passenger/driver).
+D21 = D22 = 120 kW.hour
+D23 = 216 Kkv.h
+ED2 = 456 Ksq.hour
+Ratio ED2/D1 = 228 Kh
+D22/D21 = 1.0
+D23/D21 = D23/D22 = 1.8
+
+Compared to the production of electricity, the production of gasoline is 7 times less profitable in terms of the ED2/D1 ratio.
+In addition, gasoline has a ratio of D23/D22 = D23/D21 that is 10 times less than that of electricity. The reason is that electricity is a much cheaper and more efficient source of energy than gasoline.
+
+For Moscow car sharing .
+
+D21 = D22 = 120 kW.hour
+D23 = 296 Kkv.h
+ED2 = 536 Ksq.hour
+Ratio ED2/D1 = 268 Kh
+D22/D21 = 1.0
+D23/D21 = D23/D22 = 2.5
+
+Section 2.9. Balancing Money 2: taxes and subsidies.
+
+This is a section that describes how it is possible and necessary to redistribute various D2 flows from high-income areas of the economy to low-income ones, taking into account their usefulness for society.
+It also sets out a number of ideas on which to make NES fully compliant with all principles of gender equality.
+
+Section 2.10. Money rationing 2: no inflation!
+
+This section proposes a simple mechanism for almost instantaneously (by economic standards) eliminating D2 inflation caused by the constantly growing mass of D2 over time.
+At the same time, D2 money acquires the properties of Gesellian money, which in itself is very useful, since it significantly increases the economic activity of its owners.
+
+
+Literature and links.
+
+[L.0] Author's website https://vmgames.com/ru/
+Contact email: vm@vmgames.com
+
+Github https://github.com/vadimrm
+Moshab https://hub.mos.ru/vm
+VKontakte https://vk.com/vadimrm
+YouTube https://www.youtube.com/@vadim_rm/videos
+Association of Futurologists http://futurologija.ru/author/madgazin/
+LJ https://vadimrm.livejournal.com/
+Rutube https://rutube.ru/channel/25615968/videos/
+
+[L.1] 2019 Madgazin V.R. Selected works. Volume 1. New Testament of Political Economy. See also Detailed excerpts!
+
+[L.2] 2021 Madgazin V.R. Selected works. Volume 2. New Urban System.
+
+[L.3] 2022 Madgazin V.R. Selected works. Volume 3. Geopolitics and Power.
+
+[L.4] 2022 Madgazin V.R. Selected works. Volume 4. Spiritual and moral world.
+
+[L.5 ] 2023 Madgazin V.R. Selected works. Volume 5. Integral economics. Started.
+
+All volumes and this text can be found here: https://vmgames.com/ru/
+
+[L.6] 2D economics. What is it and how can you make money from it?
 https://forbes.kz/made_in_kz/2d-ekonomika_chto_eto_takoe_i_kak_na_etom_mojno_zarabotat
 
-2D экономика - как зарабатывать на «лайках»
+2D economics - how to make money on “likes”
 https://365info.kz/2017/12/2d-ekonomika-kak-zarabatyvat-na-lajkah
 
-[Л.7] The Viridian Project https://www.viridian-project.org/en/
-Это попытка придумать двумерные деньги, но очень слабая.
+[L.7] The Viridian Project https://www.viridian-project.org/en/
+This is an interesting project to create two-dimensional money based on ecology, convertible into regular money.
 
 The Viridian Project - A digital currency to internalize external costs for a more sustainable economy https://www.viridian-project.org/paper/
 
-Словарь (некоторых) терминов и сокращений.
 
-Д1 - Деньги-1, часы труда, трудочасы, себестоимость благ
-Д10 - Деньги-1-0, условная цена бесплатных благ в Д1
-Д11 -  цена платных благ в Д1
-Д12 - Д10 или Д11, обобщённая цена благ в Д1
-Д2 - Деньги-2, польза от благ, квадратные часы
-Д20 - Деньги-2-0,  плата за дефицитность благ в Д2
-Д21 - награда (или штраф) за производство благ в Д2
-Д22 - награда (или штраф) за работу благ в Д2
-Д23 - награда (или штраф) за участие человека (потребителя) в Д2
-Д24 - награда (или штраф) за последующую работу учеников в Д2
+Glossary of (some) terms and abbreviations.
 
-ККПП - капитализация компетенций производителя-потребителя
-УККПП - умственная ККПП
-ФКППП - физическая ККПП
-ККПП0 - ККПП человека в день рождения
-ККППхх - ККПП человека в возрасте хх лет (хх это число)
-УККППхх, ФККППхх - аналогично
-ККППотр - ККПП потребителя блага
-ККППроизв - ККПП производителя блага
-ККППУ - ККПП Учителя или Учительницы
-ККППу - ККПП ученика или ученицы
-ККППуУ - часть ККППу, полученная от Учителя или Учительницы
+D1 - Money-1, labor hours, labor hours, cost of goods
+D10 - Money-1-0, conditional price of free goods in D1
+D11 - price of paid goods in D1
+D12 - D10 or D11, generalized price of goods in D1
+D2 - Money-2, benefit from benefits, square hours
+D20 - Money-2-0, payment for the scarcity of goods in D2
+D21 - reward (or penalty) for producing goods in D2
+D22 - reward (or penalty) for working goods in D2
+D23 - reward (or fine) for the participation of a person (consumer) in D2
+D24 - reward (or fine) for subsequent work of students in D2
 
-НУС - новая урбанистическая система - см. том 2.
-НЭС - новая экономическая система, описанная в этой книге
-СЭС - старая экономическая система, царящая сейчас в мире
+CCPP - capitalization of producer-consumer competencies
+UKPP - mental CCPP
+FKPP - physical KKPP
+KKPP0 - KKPP of a person on his birthday
+KKPPxx - KKPP of a person aged xx years (xx is the number)
+UKKPPxx, FKKPPxx - similar
+KKPPotr - KKPP of the consumer of the good
+KKPProizv - KKPP product manufacturer
+KKPPU - KKPP Teachers or Teachers
+KKPPu - KKPP student or student
+KKPPuU - part of the KKPPu received from the Teacher or Teacher
 
-ТДСС - товар длительного срока службы
-ТКСС - товар короткого срока службы
+NUS - new urban system - see volume 2.
+NES is a new economic system described in this book
+SES is an old economic system that currently reigns in the world
+
+TDSS - long-life product
+TKSS - short-life product
 
 
-Лицензия.
+License.
 
-Разрешается свободное копирование и распространение данного текста и любых его фрагментов для некоммерческих целей, при условии сохранения ссылки на автора и его домашнюю страницу.
-Любое коммерческое использование данного текста требует получения личного согласия автора.
+Free copying and distribution of this text and any of its fragments for non-commercial purposes is permitted, provided that a link to the author and his home page is maintained.
+Any commercial use of this text requires the personal consent of the author.
 
- Copyright (c) Vadim R. Madgazin 2024
+Copyright (c) Vadim R. Madgazin 2024
 
-Этот текст создан 09 февраля 2024 г.
+This text was created on February 26, 2024.
 
-Первая публикация текста состоялась 25 января 2024 г. здесь:
+The first version of the text, dated January 25, 2024, is published here:
 https://www.vmgames.com/ru/
